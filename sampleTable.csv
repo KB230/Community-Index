@@ -1,0 +1,31 @@
+pub_id,first_name,last_name,aff_country,aff_country_code,aff_id,aff_city,aff_city_id,gender
+pub.1123345821,Jake,Peralta,United States,US,21345,New York City,45378,male
+pub.1123345821,Amy,Santiago,Cuba,CU,72490,Havana,90182,female
+pub.1123345821,Ray,Holt,United States,US,21345,New York City,45378,male
+pub.1123345821,Rosa ,Diaz,United States,US,21345,Houston,12456,female
+pub.1123345821,Charles,Boyle,United States,US,21345,New York City,45378,male
+pub.1156792011,Kelly,Kapoor,India,IN,44562,Bangalore,64321,female
+pub.1156792011,Michael,Scott,United States,US,21345,Scranton,32562,male
+pub.1156792011,Jim,Halpert,United States,US,21345,Scranton,32562,male
+pub.1156792011,Dwight ,Schrute,United States,US,21345,Scranton,32562,male
+pub.1172183427,Lars L.,Andersen,Denmark,DK,grid.5117.2,Aalborg,2624886,male
+pub.1172183427,Jonas,Vinstrup,Denmark,DK,grid.418079.3,Copenhagen,2618425,male
+pub.1172183427,Sebastian V.,Skovlund,Denmark,DK,grid.418079.3,Copenhagen,2618425,male
+pub.1172183427,Sebastian V.,Skovlund,Denmark,DK,grid.10825.3e,Odense,2615876,male
+pub.1172183427,Víctor,Doménech-García,Spain,ES,grid.440816.f,Zaragoza,3104324,male
+pub.1172183410,Yutian,Ji,China,CN,grid.13402.34,Hangzhou,1808926,male
+pub.1172183410,Qianhui,Xu,China,CN,grid.8547.e,Shanghai,1796236,female
+pub.1172183410,Weilin,Wang,China,CN,grid.13402.34,Hangzhou,1808926,male
+pub.1172183391,Li,Zhuomeng,China,CN,grid.440622.6,Tai’an,1793724,female
+pub.1172183391,Tuo,Ji,China,CN,grid.440622.6,Tai’an,1793724,female
+pub.1172183363,Yixuan,Huang,United Kingdom,GB,grid.4868.2,London,2643743,female
+pub.1172183363,Shukun,Liu,Singapore,SG,grid.59025.3b,Singapore,1880252,female
+pub.1172183363,Yuanshi,Wang,United Kingdom,GB,grid.11835.3e,Sheffield,2638077,female
+pub.3458903457,Jake,Peralta,United States,US,21345,New York City,45378,male
+pub.3458903457,Rosa ,Diaz,United States,US,21345,Houston,12456,female
+pub.3458903457,Charles,Boyle,United States,US,21345,New York City,45378,male
+pub.3458903457,Víctor,Doménech-García,Spain,ES,grid.440816.f,Zaragoza,3104324,male
+pub.3458903457,Yutian,Ji,China,CN,grid.13402.34,Hangzhou,1808926,male
+pub.3458903457,Qianhui,Xu,China,CN,grid.8547.e,Shanghai,1796236,female
+pub.3458903457,Shukun,Liu,Singapore,SG,grid.59025.3b,Singapore,1880252,female
+pub.3458903457,Yuanshi,Wang,United Kingdom,GB,grid.11835.3e,Sheffield,2638077,female
