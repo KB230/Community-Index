@@ -1,0 +1,53 @@
+pub_id,first_name,last_name,aff_country,aff_country_code,aff_id,aff_city,aff_city_id,gender
+pub.1123345821,Jake,Peralta,Italy,IT,64563,Rome,92341,male
+pub.1123345821,Amy,Santiago,Cuba,CU,72490,Havana,90182,female
+pub.1123345821,Ray,Holt,United States,US,21345,New York City,45378,male
+pub.1123345821,Rosa ,Diaz,Mexico,MX,56733,Mexico City,41414,female
+pub.1123345821,Charles,Boyle,United States,US,21345,New York City,45378,male
+pub.1123345821,Gina,Linetti,United States,US,21345,New York City,45378,female
+pub.1156792011,Kelly,Kapoor,India,IN,44562,Bangalore,64321,female
+pub.1156792011,Michael,Scott,United States,US,21345,Scranton,32562,male
+pub.1156792011,Jim,Halpert,United States,US,21345,Scranton,32562,male
+pub.1156792011,Dwight ,Schrute,United States,US,21345,Scranton,32562,male
+pub.5198947190,Sheldon ,Cooper,United States,US,21345,Pasadena,89037,male
+pub.5198947190,Amy,Fowler,United States,US,21345,Pasadena,89037,female
+pub.5198947190,Leonard,Hofstadter,United States,US,21345,Pasadena,89037,male
+pub.5198947190,Raj,Koothrappali,United Kingdom,UK,44562,Cambridge,12000,male
+pub.0941530802,Abed ,Nadir,Palestine,PS,78122,Jerusalem,68234,male
+pub.0941530802,Troy,Barnes,United States,US,21345,Atlanta,92345,male
+pub.0941530802,Jeff,Winger,Italy,IT,64563,Rome,92341,male
+pub.0941530802,Annie,Nguyen,United States,US,21345,Los Angeles,54530,female
+pub.3708184030,Bo,Jack,Canada,CA,90845,Toronto,99934,male
+pub.3708184030,Jessie,Pinkman,United States,US,21345,Emmett,80802,male
+pub.3708184030,Annie,Nguyen,United States,US,21345,Los Angeles,54530,female
+pub.3708184030,Rosa,Diaz,United States,US,21345,Houston,12456,female
+pub.798690089,Walter,White,United States,US,21345,Albuquerque,77823,male
+pub.798690089,Jessie,Pinkman,United States,US,21345,Emmett,80802,male
+pub.798690089,Saul,Goodman,United States,US,21345,Albuquerque,77823,male
+pub.798690089,Mike,Ehrmantraut,United States,US,21345,Washington D.C.,12121,male
+pub.798690089,Gus ,Fring,Chile,CL,90909,Santiago,54366,male
+pub.798690089,Huell,Babineaux,United States,US,21345,St. Louis,87884,male
+pub.5462949598,Saul,Goodman,United States,US,21345,Albuquerque,77823,male
+pub.5462949598,Mike,Ehrmantraut,United States,US,21345,Washington D.C.,12121,male
+pub.5462949598,Gus ,Fring,Chile,CL,90909,Santiago,54366,male
+pub.5462949598,Leonard,Salamanca,United States,US,21345,Laredo,78783,male
+pub.5462949598,Huell,Babineaux,United States,US,21345,St. Louis,87884,male
+pub.7129166159,Leonard,Salamanca,United States,US,21345,Laredo,78783,male
+pub.7129166159,Tuco,Salamanca,Mexico,MX,56733,Mexico City,41414,male
+pub.7129166159,Tony ,Stark,United States,US,21345,New York City,45378,male
+pub.7129166159,Huell,Babineaux,United States,US,21345,St. Louis,87884,male
+pub.7129166159,Mike,Ehrmantraut,United States,US,21345,Washington D.C.,12121,male
+pub.7485401038,Thor,Odinson,United States,US,21345,Albuquerque,77823,male
+pub.7485401038,Loki,Laufeyson,United States,US,21345,Albuquerque,77823,male
+pub.6693884157,Thor,Odinson,United States,US,21345,Albuquerque,77823,male
+pub.6693884157,Loki,Laufeyson,United States,US,21345,Albuquerque,77823,male
+pub.6693884157,Peter,Parker,United States,US,21345,New York City,45378,male
+pub.6693884157,Tony ,Stark,United States,US,21345,New York City,45378,male
+pub.1319112586,Jake,Peralta,Italy,IT,64563,Rome,92341,male
+pub.1319112586,Amy,Santiago,Cuba,CU,72490,Havana,90182,female
+pub.1319112586,Ray,Holt,United States,US,21345,New York City,45378,male
+pub.1319112586,Rosa ,Diaz,Mexico,MX,56733,Mexico City,41414,female
+pub.0540609372,Jake,Peralta,Italy,IT,64563,Rome,92341,male
+pub.0540609372,Amy,Santiago,Cuba,CU,72490,Havana,90182,female
+pub.0540609372,Ray,Holt,United States,US,21345,New York City,45378,male
+pub.0540609372,Rosa ,Diaz,Mexico,MX,56733,Mexico City,41414,female
