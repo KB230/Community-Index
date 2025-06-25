@@ -2,6 +2,7 @@ import pandas as pd
 import networkx as nx
 
 # ==============================================================================
+# SECTION 1: 
 # All helper functions and the Author class
 # ==============================================================================
 
@@ -122,7 +123,7 @@ def calculateDIndex(author, collabDict, collabGraph, isNew = 1, newBonus = 0.8, 
 
         for collab in collabDict[publication]:
             bonus = 1
-            # YOUR ORIGINAL LOGIC - UNCHANGED: Using `==` as you specified.
+            # Ensuring there is only one connection
             if collabGraph.degree[collab] == isNew and crossPaper == True:
                 bonus += newBonus
 
@@ -134,7 +135,7 @@ def calculateDIndex(author, collabDict, collabGraph, isNew = 1, newBonus = 0.8, 
                                           baseSpecializationFactor*bonus,
                                           specializationCounts)
 
-        # YOUR ORIGINAL CALCULATIONS - UNCHANGED
+        # Original calculations (nothing changed here)
         final_gender_factor = getReciprocal(genderFactor, len(collabDict[publication]))
         
         nationality_denominator = sum(nationalityCounts.values()) - baseNationalityBonus
