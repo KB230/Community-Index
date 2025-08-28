@@ -26,18 +26,21 @@ This code serves as a reference implementation of the C-Index framework. You can
 2.  **Run:**
     Launch the Jupyter Notebook and execute the cells. The notebook is self-contained and will use the sample CSV to produce a final output table.
 
+
 ## Citation
 
-Our paper is currently available as a pre-print on arXiv. If you use this work, please cite:
+Our paper is available as a pre-print on arXiv. If you use this work, please cite:
 
-*Kumar, A., Sabet, C., Hammond, A., Fiske, A., et al. (2024). The Community Index: A More Comprehensive Approach to Assessing Scholarly Impact. arXiv preprint arXiv:[XXXX.XXXXX].*
+**Kumar, A., Sabet, C., Hammond, A., et al. (2025). The Community Index: A More Comprehensive Approach to Assessing Scholarly Impact. arXiv preprint arXiv:2508.16519.*
+
+[https://arxiv.org/abs/2508.16519](https://arxiv.org/abs/2508.16519)
 
 ```bibtex
-@misc{kumar2024community,
+@misc{kumar2025community,
       title={The Community Index: A More Comprehensive Approach to Assessing Scholarly Impact}, 
-      author={Arav Kumar and Cameron Sabet and Alessandro Hammond and Amelia Fiske and Bhav Jain and Deirdre Goode and Dharaa Suresha and Leo Anthony Celi and Lisa Soleymani Lehmann and Ned Mccague and Rawan Abulibdeh and Sameer Pradhan},
-      year={2024},
-      eprint={[16519]},
+      author={Arav Kumar and Cameron Sabet and Cameron Sabet and Alessandro Hammond and Amelia Fiske and Bhav Jain and Deirdre Goode and Dharaa Suresha and Leo Anthony Celi and Lisa Soleymani Lehmann and Ned Mccague and Rawan Abulibdeh and Sameer Pradhan},
+      year={2025},
+      eprint={2508.16519},
       archivePrefix={arXiv},
       primaryClass={cs.DL}
 }
