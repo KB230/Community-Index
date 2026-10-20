@@ -1,0 +1,11 @@
+cohort,author_anon_id,openalex_id,first_name,last_name,n_papers,affiliations,dois,researcher_id
+A,A38327606686f,A5014540719,Hermenegildo,García,4,Universitat Politècnica de València,10.1002/adma.202505088 | 10.1002/anie.202505456 | 10.1038/s41570-025-00698-3 | 10.1039/d4cs01091d,ur.013342054505.03
+A,Ab1e8b19bae0b,A5100423139,Jiaguo,Yu,4,China University of Geosciences | State Key Laboratory of Advanced Technology for Materials Synthesis and Processing | Wuhan University of Technology,10.1002/adma.202505088 | 10.1002/anie.202505456 | 10.1038/s41570-025-00698-3 | 10.1039/d4cs01091d,ur.010215167155.38
+A,A11460d5aa670,A5032509793,Bicheng,Zhu,3,China University of Geosciences | Queensland University of Technology,10.1002/adma.202505088 | 10.1002/anie.202505456 | 10.1016/j.mattod.2024.11.012,ur.011630343433.62
+A,Af103ef0d80ce,A5101925067,Liuyang,Zhang,3,China University of Geosciences,10.1002/anie.202505456 | 10.1038/s41570-025-00698-3 | 10.1039/d4cs01091d,ur.013370113501.68
+A,Afb5914645166,A5100358209,Jianjun,Zhang,3,China University of Geosciences,10.1002/adma.202505088 | 10.1002/anie.202505456 | 10.1038/s41570-025-00698-3,ur.012414431546.36
+A,A60af1130add6,A5056638329,Chuanjia,Jiang,2,Nankai University,10.1002/adma.202505088 | 10.1016/j.mattod.2024.11.012,ur.07362130621.29
+A,A6e2aff8d4f11,A5013848651,Junwei,Fu,2,Central South University | State Key Laboratory of Powder Metallurgy,10.1016/j.mattod.2024.11.012 | 10.1038/s41929-025-01300-1,ur.016555004027.36
+A,Aa6270b01971b,A5079893090,Liyuan,Chai,2,Central South University,10.1038/s41467-025-58026-8 | 10.1038/s41929-025-01300-1,ur.01053424711.54
+B,A1d51b8d97097,A5043842967,Johannes F E,Mann,2,"KfH (Kuratorium für Dialyse und Nierentransplantation) Kidney Center, Munich, Germany. | Kuratorium für Heimdialyse Kidney Center, Munich, Germany. | University of Erlangen-Nuremberg",10.1056/nejmoa2410659 | 10.1056/nejmoa2501006,ur.014477364742.65
+B,A77c21dacbd16,A5089305017,Rajiv,Agarwal,2,Indiana University School of Medicine | Richard L. Roudebush VA Medical Center,10.1038/s41572-024-00589-9 | 10.1056/nejmoa2410659,ur.014175350732.09

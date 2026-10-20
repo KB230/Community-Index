@@ -1,0 +1,66 @@
+C-Index TODO: 
+
+Reviewer comment summary and current Methods coverage
+
+I'll organize by reviewer, with clear indicators: ✓ = addressed in current Methods, ~ = partially addressed, ✗ = not addressed (either belongs elsewhere or is a genuine gap).
+
+Reviewer #1 (mostly focused on Abstract/Intro/Discussion, but two Methods-relevant points)
+
+✓ "Could novelty rewards simply reflect the graduate student cycle?" — Section 2.6 explicitly acknowledges this conflation and names career-stage normalization as future work. Directly addressed.
+✗ Cumbersome tables, extraneous detail in Results — not a Methods issue; belongs to your Results rewrite.
+
+The remaining Reviewer #1 comments (Abstract wording, Discussion structure, sentence-level edits) are for your collaborators handling Intro/Discussion.
+
+Reviewer #3 (major methodological critique — most directly Methods-relevant)
+
+✓ Major #1: Equations badly formatted, inconsistent notation, missing symbols — Rewrite around a single clean Rao-Stirling formula with defined terms. Symbol table now included. Google Docs rendering issues will be fixed in the Overleaf pass. Fully addressed structurally.
+✓ Major #2: No sensitivity/robustness analysis — Section 2.8 explicitly commits to sensitivity across disparity definitions, team-size weighting, novelty parameter δ, and aggregation choice. Addressed as a commitment; will need to actually run the analyses in Results.
+~ Major #2 (comparison with h-index): Not in Methods. You'll want to include one in Results — this is where the comparative benchmarking Reviewer #3 asked for happens. Flag now, plan for Results.
+✓ Major #3: Arbitrary parameters (δ=0.8, weighting) — δ is now a tunable parameter with committed sensitivity range [0, 1]. Weighting is gone entirely — the summing-with-weights formulation was replaced with Rao-Stirling. Fully addressed.
+~ Major #4: Unintended bias/prejudices from feature selection — Section 2.6 acknowledges novelty conflation; 2.5 acknowledges helicopter research risk from team-size weighting; 2.4 gender paragraph acknowledges binary limitation. But the broader "how might this metric create new prejudices" discussion belongs in Discussion, not Methods. Partially handled in Methods, needs Discussion completion.
+~ Major #5: Experimentally weak; no validation against real academic outcomes — 2.9 honestly frames the analysis as demonstration not validation. This is the right answer for a small-cohort paper, but Reviewer #3 will still want to see a note in Discussion about what larger empirical validation would look like as future work.
+✓ Minor #1: Symbol table — added.
+✗ Minor #2: Cumbersome tables — Results issue.
+✗ Minor #3: Typos — final proofread pass, not a structural issue.
+
+Reviewer #5 (contextual, mixed)
+
+~ Political climate / gender inclusion concern — you kept gender. Methods handles the binary limitation honestly. The political-viability concern is really a Discussion question and probably not something to accommodate methodologically.
+~ Country gaming via multicultural family trees — the World Bank income group approach reduces this concern significantly (an author "gaming" by claiming Mexican heritage doesn't help unless their actual collaborations reflect that; the disparity comes from the collaborator distribution, not the author's self-identification). Worth a sentence in Discussion.
+✓ Novelty multiplier positively received — retained and refined.
+✓ Math didn't render in PDF — Overleaf pass will resolve.
+✗ Definition of race, historical/regional analysis, Guatemalan case study framing — none of these are Methods issues; some may inform Discussion.
+
+Reviewer #6 (Cameron Neylon — the most substantive methodological critique)
+
+✓ Engage with responsible-metrics literature (bibliodiversity, cognitive justice, DORA, Leiden Manifesto) — 2.2 P3 now does this explicitly with DORA and Leiden Manifesto. Leydesdorff & Rafols and Rafols & Meyer cited in 2.3. Direct answer to his central critique.
+~ Cite Hirsch's original h-index proposal — not in Methods. Belongs in Intro (which your collaborators are handling). Confirm this makes it in.
+✗ Address why shifting entrenched indicators is difficult — belongs in Discussion, not Methods. Flag for your collaborators.
+✓ Summing indicators is unstable — consider vector-based approach — this was Neylon's single strongest methodological point. Section 2.7 addresses it head-on: vector as primary representation, geometric mean as optional scalar, explicit critique of summing and weighted sums. This is probably the single biggest structural improvement in the revision.
+✓ Binary/categorical division risks over-emphasizing dimensions — the Rao-Stirling formulation handles binary and categorical features uniformly, eliminating the separate-formula problem. Section 2.4 gender paragraph honestly acknowledges the binary data limitation while noting the formulation extends naturally.
+✓ Weighting definition issues — no more weights. The weighted-sum aggregation is replaced with geometric mean of unweighted Rao-Stirling scores.
+~ Metric may privilege well-resourced labs / helicopter research — 2.5 directly addresses this via the team-size weighting decision (unweighted mean rejected weighting explicitly to avoid this). But whether the metric actually rewards these patterns needs to be demonstrated in Results, not just claimed in Methods. This is where Neylon will really be looking. If your Results show the Uganda-Lebanon-multiple-HIC paper in Cohort B scoring higher than the mostly-HIC Cohort A collaborations, you've made his point empirically. Plan Results with this in mind.
+~ Advocacy framing rather than "here's our index" — Methods still presents "the comm-index" as a defined artifact. This is honestly fine — you can't rewrite the whole paper as advocacy in a revision — but Neylon will notice. Your Discussion should acknowledge the tension: "we present the comm-index as one instantiation of a broader argument for diversity-aware evaluation, and offer it as a starting point for further methodological development."
+~ Non-anonymized examples — 2.9 explains the two-copy workflow honestly. Whether Neylon accepts the anonymization argument depends on whether Results includes at least one named case study or explicitly discusses why the anonymized approach is defensible. Consider adding a Cohort B named case in Results (the paper with the Uganda + Lebanon + HIC authorship structure is a natural fit and directly answers his critique).
+
+Summary of gaps
+
+Genuine remaining gaps in the current Methods:
+
+Nothing structural. The Methods is defensible.
+
+Things you should plan to do in Results to answer reviewers who read Methods first:
+
+H-index comparison for at least a subset of authors (Reviewer #3).
+Sensitivity analyses on disparity, novelty, team-size, aggregation (Reviewer #3, all).
+Demonstrate that Cohort B's cross-context collaborations score higher than Cohort A's HIC-dominated ones — this is where the equity claim becomes visible (Reviewer #6).
+Consider one named case study to directly answer Neylon's helicopter-research check (Reviewer #6).
+
+Things that belong in Discussion and should be flagged to your collaborators:
+
+Why shifting entrenched indicators is difficult (Reviewer #6).
+How the metric might create new prejudices / unintended consequences (Reviewer #3 Major #4).
+Empirical validation as future work (Reviewer #3 Major #5).
+Larger-scale empirical validation as future work.
+Country-gaming concern (Reviewer #5).
+Whether Hirsch's original h-index paper is cited somewhere (Reviewer #6).

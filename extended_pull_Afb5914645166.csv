@@ -1,0 +1,559 @@
+pub_id,doi,pub_date,author_openalex_id,display_name,aff_country_code,aff_name,subfield,field,domain,citations,seed_author_anon_id
+W4200426529,10.1002/adma.202107668,2021-12-28,A5076905500,Liuyang Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1920,Afb5914645166
+W4200426529,10.1002/adma.202107668,2021-12-28,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1920,Afb5914645166
+W4200426529,10.1002/adma.202107668,2021-12-28,A5060100426,Huogen Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1920,Afb5914645166
+W4200426529,10.1002/adma.202107668,2021-12-28,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1920,Afb5914645166
+W4408505437,10.1038/s41570-025-00698-3,2025-03-17,A5076905500,Liuyang Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,512,Afb5914645166
+W4408505437,10.1038/s41570-025-00698-3,2025-03-17,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,512,Afb5914645166
+W4408505437,10.1038/s41570-025-00698-3,2025-03-17,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,512,Afb5914645166
+W4408505437,10.1038/s41570-025-00698-3,2025-03-17,A5014540719,Hermenegildo Garcı́a,ES,Instituto de Tecnología Química,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,512,Afb5914645166
+W4408505437,10.1038/s41570-025-00698-3,2025-03-17,A5014540719,Hermenegildo Garcı́a,ES,Universitat Politècnica de València,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,512,Afb5914645166
+W2792125676,10.1016/j.apcatb.2018.02.042,2018-02-24,A5004139159,Feiyan Xu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,493,Afb5914645166
+W2792125676,10.1016/j.apcatb.2018.02.042,2018-02-24,A5100358209,Jianjun Zhang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,493,Afb5914645166
+W2792125676,10.1016/j.apcatb.2018.02.042,2018-02-24,A5032509793,Bicheng Zhu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,493,Afb5914645166
+W2792125676,10.1016/j.apcatb.2018.02.042,2018-02-24,A5100423139,Jiaguo Yu,SA,King Abdulaziz University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,493,Afb5914645166
+W2792125676,10.1016/j.apcatb.2018.02.042,2018-02-24,A5100423139,Jiaguo Yu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,493,Afb5914645166
+W2792125676,10.1016/j.apcatb.2018.02.042,2018-02-24,A5006868699,Jingsan Xu,AU,Queensland University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,493,Afb5914645166
+W4312127755,10.1016/j.matt.2022.09.009,2022-12-01,A5029808384,Linxi Wang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,444,Afb5914645166
+W4312127755,10.1016/j.matt.2022.09.009,2022-12-01,A5032509793,Bicheng Zhu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,444,Afb5914645166
+W4312127755,10.1016/j.matt.2022.09.009,2022-12-01,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,444,Afb5914645166
+W4312127755,10.1016/j.matt.2022.09.009,2022-12-01,A5021441524,Jahan B. Ghasemi,IR,University of Tehran,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,444,Afb5914645166
+W4312127755,10.1016/j.matt.2022.09.009,2022-12-01,A5073669080,Mitra Mousavi,IR,University of Tehran,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,444,Afb5914645166
+W4312127755,10.1016/j.matt.2022.09.009,2022-12-01,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,444,Afb5914645166
+W4399369355,10.1038/s41467-024-49004-7,2024-06-05,A5058203345,Xianyu Deng,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,442,Afb5914645166
+W4399369355,10.1038/s41467-024-49004-7,2024-06-05,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,442,Afb5914645166
+W4399369355,10.1038/s41467-024-49004-7,2024-06-05,A5072450440,Kezhen Qi,CN,Dali University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,442,Afb5914645166
+W4399369355,10.1038/s41467-024-49004-7,2024-06-05,A5077280830,Guijie Liang,CN,Hubei University of Arts and Science,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,442,Afb5914645166
+W4399369355,10.1038/s41467-024-49004-7,2024-06-05,A5004139159,Feiyan Xu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,442,Afb5914645166
+W4399369355,10.1038/s41467-024-49004-7,2024-06-05,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,442,Afb5914645166
+W4392199058,10.1002/adma.202400288,2024-02-27,A5047192646,Junyi Qiu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,403,Afb5914645166
+W4392199058,10.1002/adma.202400288,2024-02-27,A5059518214,Kai Meng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,403,Afb5914645166
+W4392199058,10.1002/adma.202400288,2024-02-27,A5100419770,Yong Zhang,CN,Hubei Polytechnic University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,403,Afb5914645166
+W4392199058,10.1002/adma.202400288,2024-02-27,A5047596984,Bei Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,403,Afb5914645166
+W4392199058,10.1002/adma.202400288,2024-02-27,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,403,Afb5914645166
+W4392199058,10.1002/adma.202400288,2024-02-27,A5029808384,Linxi Wang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,403,Afb5914645166
+W4392199058,10.1002/adma.202400288,2024-02-27,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,403,Afb5914645166
+W4302763878,10.1002/aenm.202201449,2022-10-06,A5000141785,Bingquan Xia,AU,The University of Adelaide,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,335,Afb5914645166
+W4302763878,10.1002/aenm.202201449,2022-10-06,A5076274939,Bowen He,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,335,Afb5914645166
+W4302763878,10.1002/aenm.202201449,2022-10-06,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,335,Afb5914645166
+W4302763878,10.1002/aenm.202201449,2022-10-06,A5035438936,Laiquan Li,AU,The University of Adelaide,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,335,Afb5914645166
+W4302763878,10.1002/aenm.202201449,2022-10-06,A5103114439,Yanzhao Zhang,AU,The University of Adelaide,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,335,Afb5914645166
+W4302763878,10.1002/aenm.202201449,2022-10-06,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,335,Afb5914645166
+W4302763878,10.1002/aenm.202201449,2022-10-06,A5088778869,Jingrun Ran,AU,The University of Adelaide,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,335,Afb5914645166
+W4302763878,10.1002/aenm.202201449,2022-10-06,A5032628543,Shi‐Zhang Qiao,AU,The University of Adelaide,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,335,Afb5914645166
+W4404147470,10.1038/s41467-024-53951-6,2024-11-07,A5063233984,Sijie Wan,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,253,Afb5914645166
+W4404147470,10.1038/s41467-024-53951-6,2024-11-07,A5100785734,Wang Wang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,253,Afb5914645166
+W4404147470,10.1038/s41467-024-53951-6,2024-11-07,A5047596984,Bei Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,253,Afb5914645166
+W4404147470,10.1038/s41467-024-53951-6,2024-11-07,A5043687191,Guoqiang Luo,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,253,Afb5914645166
+W4404147470,10.1038/s41467-024-53951-6,2024-11-07,A5088313910,Qiang Shen,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,253,Afb5914645166
+W4404147470,10.1038/s41467-024-53951-6,2024-11-07,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,253,Afb5914645166
+W4404147470,10.1038/s41467-024-53951-6,2024-11-07,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,253,Afb5914645166
+W4404147470,10.1038/s41467-024-53951-6,2024-11-07,A5053814985,Shaowen Cao,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,253,Afb5914645166
+W4404147470,10.1038/s41467-024-53951-6,2024-11-07,A5053814985,Shaowen Cao,CN,Hubei University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,253,Afb5914645166
+W4404147470,10.1038/s41467-024-53951-6,2024-11-07,A5103023255,Lianmeng Zhang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,253,Afb5914645166
+W4312041849,10.1039/d2cc06300j,2022-12-21,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,223,Afb5914645166
+W4312041849,10.1039/d2cc06300j,2022-12-21,A5032509793,Bicheng Zhu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,223,Afb5914645166
+W4312041849,10.1039/d2cc06300j,2022-12-21,A5076905500,Liuyang Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,223,Afb5914645166
+W4312041849,10.1039/d2cc06300j,2022-12-21,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,223,Afb5914645166
+W4388139194,10.1002/anie.202313172,2023-11-01,A5076274939,Bowen He,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,222,Afb5914645166
+W4388139194,10.1002/anie.202313172,2023-11-01,A5100727588,Peng Xiao,CN,University of Science and Technology of China,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,222,Afb5914645166
+W4388139194,10.1002/anie.202313172,2023-11-01,A5100727588,Peng Xiao,CN,Hefei National Center for Physical Sciences at Nanoscale,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,222,Afb5914645166
+W4388139194,10.1002/anie.202313172,2023-11-01,A5063233984,Sijie Wan,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,222,Afb5914645166
+W4388139194,10.1002/anie.202313172,2023-11-01,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,222,Afb5914645166
+W4388139194,10.1002/anie.202313172,2023-11-01,A5100357744,Tao Chen,CN,University of Science and Technology of China,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,222,Afb5914645166
+W4388139194,10.1002/anie.202313172,2023-11-01,A5100357744,Tao Chen,CN,Hefei National Center for Physical Sciences at Nanoscale,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,222,Afb5914645166
+W4388139194,10.1002/anie.202313172,2023-11-01,A5076905500,Liuyang Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,222,Afb5914645166
+W4388139194,10.1002/anie.202313172,2023-11-01,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,222,Afb5914645166
+W4399330929,10.1002/adma.202406460,2024-06-04,A5059518214,Kai Meng,CN,Wuhan University of Technology,Materials Chemistry,Materials Science,Physical Sciences,222,Afb5914645166
+W4399330929,10.1002/adma.202406460,2024-06-04,A5100358209,Jianjun Zhang,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,222,Afb5914645166
+W4399330929,10.1002/adma.202406460,2024-06-04,A5047596984,Bei Cheng,CN,Wuhan University of Technology,Materials Chemistry,Materials Science,Physical Sciences,222,Afb5914645166
+W4399330929,10.1002/adma.202406460,2024-06-04,A5002944883,Xingang Ren,CN,Anhui University,Materials Chemistry,Materials Science,Physical Sciences,222,Afb5914645166
+W4399330929,10.1002/adma.202406460,2024-06-04,A5102567579,Zhaosheng Xia,CN,Anhui University,Materials Chemistry,Materials Science,Physical Sciences,222,Afb5914645166
+W4399330929,10.1002/adma.202406460,2024-06-04,A5004139159,Feiyan Xu,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,222,Afb5914645166
+W4399330929,10.1002/adma.202406460,2024-06-04,A5076905500,Liuyang Zhang,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,222,Afb5914645166
+W4399330929,10.1002/adma.202406460,2024-06-04,A5100423139,Jiaguo Yu,CN,Wuhan University of Technology,Materials Chemistry,Materials Science,Physical Sciences,222,Afb5914645166
+W4399330929,10.1002/adma.202406460,2024-06-04,A5100423139,Jiaguo Yu,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,222,Afb5914645166
+W4294301039,10.1021/acs.jpclett.2c02125,2022-09-02,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,209,Afb5914645166
+W4294301039,10.1021/acs.jpclett.2c02125,2022-09-02,A5076905500,Liuyang Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,209,Afb5914645166
+W4294301039,10.1021/acs.jpclett.2c02125,2022-09-02,A5100785734,Wang Wang,CN,Wuhan University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,209,Afb5914645166
+W4294301039,10.1021/acs.jpclett.2c02125,2022-09-02,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,209,Afb5914645166
+W4410481441,10.1002/anie.202505456,2025-05-19,A5104111413,Zheng Meng,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,186,Afb5914645166
+W4410481441,10.1002/anie.202505456,2025-05-19,A5104111413,Zheng Meng,CN,China University of Geosciences (Beijing),Materials Chemistry,Materials Science,Physical Sciences,186,Afb5914645166
+W4410481441,10.1002/anie.202505456,2025-05-19,A5100358209,Jianjun Zhang,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,186,Afb5914645166
+W4410481441,10.1002/anie.202505456,2025-05-19,A5100358209,Jianjun Zhang,CN,China University of Geosciences (Beijing),Materials Chemistry,Materials Science,Physical Sciences,186,Afb5914645166
+W4410481441,10.1002/anie.202505456,2025-05-19,A5113424237,Haoyu Long,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,186,Afb5914645166
+W4410481441,10.1002/anie.202505456,2025-05-19,A5113424237,Haoyu Long,CN,China University of Geosciences (Beijing),Materials Chemistry,Materials Science,Physical Sciences,186,Afb5914645166
+W4410481441,10.1002/anie.202505456,2025-05-19,A5014540719,Hermenegildo Garcı́a,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,186,Afb5914645166
+W4410481441,10.1002/anie.202505456,2025-05-19,A5014540719,Hermenegildo Garcı́a,ES,Universitat Politècnica de València,Materials Chemistry,Materials Science,Physical Sciences,186,Afb5914645166
+W4410481441,10.1002/anie.202505456,2025-05-19,A5076905500,Liuyang Zhang,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,186,Afb5914645166
+W4410481441,10.1002/anie.202505456,2025-05-19,A5076905500,Liuyang Zhang,CN,China University of Geosciences (Beijing),Materials Chemistry,Materials Science,Physical Sciences,186,Afb5914645166
+W4410481441,10.1002/anie.202505456,2025-05-19,A5032509793,Bicheng Zhu,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,186,Afb5914645166
+W4410481441,10.1002/anie.202505456,2025-05-19,A5032509793,Bicheng Zhu,CN,China University of Geosciences (Beijing),Materials Chemistry,Materials Science,Physical Sciences,186,Afb5914645166
+W4386750637,10.1016/s1872-2067(23)64466-3,2023-08-01,A5100427694,Bowen Liu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,157,Afb5914645166
+W4386750637,10.1016/s1872-2067(23)64466-3,2023-08-01,A5041804957,Jiajie Cai,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,157,Afb5914645166
+W4386750637,10.1016/s1872-2067(23)64466-3,2023-08-01,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,157,Afb5914645166
+W4386750637,10.1016/s1872-2067(23)64466-3,2023-08-01,A5102798655,Haiyan Tan,CN,Hubei University for Nationalities,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,157,Afb5914645166
+W4386750637,10.1016/s1872-2067(23)64466-3,2023-08-01,A5102798655,Haiyan Tan,CN,Hubei University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,157,Afb5914645166
+W4386750637,10.1016/s1872-2067(23)64466-3,2023-08-01,A5047596984,Bei Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,157,Afb5914645166
+W4386750637,10.1016/s1872-2067(23)64466-3,2023-08-01,A5006868699,Jingsan Xu,AU,Queensland University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,157,Afb5914645166
+W4406731207,10.1038/s41467-025-56306-x,2025-01-22,A5113424237,Haoyu Long,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,153,Afb5914645166
+W4406731207,10.1038/s41467-025-56306-x,2025-01-22,A5101533967,Xidong Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,153,Afb5914645166
+W4406731207,10.1038/s41467-025-56306-x,2025-01-22,A5100776805,Zhenyi Zhang,CN,State Ethnic Affairs Commission,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,153,Afb5914645166
+W4406731207,10.1038/s41467-025-56306-x,2025-01-22,A5100776805,Zhenyi Zhang,CN,Dalian Minzu University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,153,Afb5914645166
+W4406731207,10.1038/s41467-025-56306-x,2025-01-22,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,153,Afb5914645166
+W4406731207,10.1038/s41467-025-56306-x,2025-01-22,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,153,Afb5914645166
+W4406731207,10.1038/s41467-025-56306-x,2025-01-22,A5060100426,Huogen Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,153,Afb5914645166
+W3177091995,10.1016/s1872-2067(21)63805-6,2021-06-22,A5011655456,Libo Wang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,151,Afb5914645166
+W3177091995,10.1016/s1872-2067(21)63805-6,2021-06-22,A5011655456,Libo Wang,CN,Ji Hua Laboratory,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,151,Afb5914645166
+W3177091995,10.1016/s1872-2067(21)63805-6,2021-06-22,A5032509793,Bicheng Zhu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,151,Afb5914645166
+W3177091995,10.1016/s1872-2067(21)63805-6,2021-06-22,A5047596984,Bei Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,151,Afb5914645166
+W3177091995,10.1016/s1872-2067(21)63805-6,2021-06-22,A5100358209,Jianjun Zhang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,151,Afb5914645166
+W3177091995,10.1016/s1872-2067(21)63805-6,2021-06-22,A5076905500,Liuyang Zhang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,151,Afb5914645166
+W3177091995,10.1016/s1872-2067(21)63805-6,2021-06-22,A5100423139,Jiaguo Yu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,151,Afb5914645166
+W3177091995,10.1016/s1872-2067(21)63805-6,2021-06-22,A5100423139,Jiaguo Yu,CN,Zhengzhou University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,151,Afb5914645166
+W3177091995,10.1016/s1872-2067(21)63805-6,2021-06-22,A5100423139,Jiaguo Yu,CN,Ji Hua Laboratory,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,151,Afb5914645166
+W4312566433,10.1016/s1872-2067(22)64108-1,2022-01-01,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,142,Afb5914645166
+W4312566433,10.1016/s1872-2067(22)64108-1,2022-01-01,A5071548769,Gaoyuan Yang,CN,Hubei University of Arts and Science,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,142,Afb5914645166
+W4312566433,10.1016/s1872-2067(22)64108-1,2022-01-01,A5076274939,Bowen He,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,142,Afb5914645166
+W4312566433,10.1016/s1872-2067(22)64108-1,2022-01-01,A5047596984,Bei Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,142,Afb5914645166
+W4312566433,10.1016/s1872-2067(22)64108-1,2022-01-01,A5003079852,Youji Li,CN,Jishou University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,142,Afb5914645166
+W4312566433,10.1016/s1872-2067(22)64108-1,2022-01-01,A5077280830,Guijie Liang,CN,Hubei University of Arts and Science,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,142,Afb5914645166
+W4312566433,10.1016/s1872-2067(22)64108-1,2022-01-01,A5029808384,Linxi Wang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,142,Afb5914645166
+W4377101756,10.1016/j.jmst.2023.03.054,2023-05-19,A5032509793,Bicheng Zhu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,142,Afb5914645166
+W4377101756,10.1016/j.jmst.2023.03.054,2023-05-19,A5100442578,Jingjing Liu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,142,Afb5914645166
+W4377101756,10.1016/j.jmst.2023.03.054,2023-05-19,A5100640239,Jian Sun,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,142,Afb5914645166
+W4377101756,10.1016/j.jmst.2023.03.054,2023-05-19,A5101529941,Fei Xie,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,142,Afb5914645166
+W4377101756,10.1016/j.jmst.2023.03.054,2023-05-19,A5102798655,Haiyan Tan,CN,Hubei University for Nationalities,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,142,Afb5914645166
+W4377101756,10.1016/j.jmst.2023.03.054,2023-05-19,A5102798655,Haiyan Tan,CN,Hubei University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,142,Afb5914645166
+W4377101756,10.1016/j.jmst.2023.03.054,2023-05-19,A5047596984,Bei Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,142,Afb5914645166
+W4377101756,10.1016/j.jmst.2023.03.054,2023-05-19,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,142,Afb5914645166
+W4387826248,10.1016/j.cej.2023.146818,2023-10-20,A5003707166,Guotai Sun,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,135,Afb5914645166
+W4387826248,10.1016/j.cej.2023.146818,2023-10-20,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,135,Afb5914645166
+W4387826248,10.1016/j.cej.2023.146818,2023-10-20,A5047596984,Bei Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,135,Afb5914645166
+W4387826248,10.1016/j.cej.2023.146818,2023-10-20,A5060100426,Huogen Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,135,Afb5914645166
+W4387826248,10.1016/j.cej.2023.146818,2023-10-20,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,135,Afb5914645166
+W4387826248,10.1016/j.cej.2023.146818,2023-10-20,A5006868699,Jingsan Xu,AU,Queensland University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,135,Afb5914645166
+W4396705042,10.1002/anie.202406310,2024-05-07,A5050364830,Jingzhao Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,122,Afb5914645166
+W4396705042,10.1002/anie.202406310,2024-05-07,A5100785734,Wang Wang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,122,Afb5914645166
+W4396705042,10.1002/anie.202406310,2024-05-07,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,122,Afb5914645166
+W4396705042,10.1002/anie.202406310,2024-05-07,A5063233984,Sijie Wan,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,122,Afb5914645166
+W4396705042,10.1002/anie.202406310,2024-05-07,A5047596984,Bei Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,122,Afb5914645166
+W4396705042,10.1002/anie.202406310,2024-05-07,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,122,Afb5914645166
+W4396705042,10.1002/anie.202406310,2024-05-07,A5053814985,Shaowen Cao,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,122,Afb5914645166
+W243560493,10.1016/j.ceramint.2015.04.163,2015-05-08,A5002031883,Zhe‐Qi Li,CN,Dalian Jiaotong University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,118,Afb5914645166
+W243560493,10.1016/j.ceramint.2015.04.163,2015-05-08,A5014102833,Hui‐Long Wang,CN,Dalian University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,118,Afb5914645166
+W243560493,10.1016/j.ceramint.2015.04.163,2015-05-08,A5043561815,Long-Yun Zi,CN,Dalian University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,118,Afb5914645166
+W243560493,10.1016/j.ceramint.2015.04.163,2015-05-08,A5100358209,Jianjun Zhang,CN,Dalian University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,118,Afb5914645166
+W243560493,10.1016/j.ceramint.2015.04.163,2015-05-08,A5034459037,Yao-Shan Zhang,CN,Dalian University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,118,Afb5914645166
+W4281393878,10.1021/acs.jpclett.2c01332,2022-05-23,A5029808384,Linxi Wang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4281393878,10.1021/acs.jpclett.2c01332,2022-05-23,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4281393878,10.1021/acs.jpclett.2c01332,2022-05-23,A5060100426,Huogen Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4281393878,10.1021/acs.jpclett.2c01332,2022-05-23,A5038154061,İmren Hatay Patır,TR,Selçuk University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4281393878,10.1021/acs.jpclett.2c01332,2022-05-23,A5003079852,Youji Li,CN,Jishou University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4281393878,10.1021/acs.jpclett.2c01332,2022-05-23,A5011805047,S. Wageh,SA,King Abdulaziz University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4281393878,10.1021/acs.jpclett.2c01332,2022-05-23,A5049696382,Ahmed A. Al‐Ghamdi,SA,King Abdulaziz University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4281393878,10.1021/acs.jpclett.2c01332,2022-05-23,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4366977335,10.1002/anie.202304559,2023-04-25,A5000234272,Duoduo Gao,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4366977335,10.1002/anie.202304559,2023-04-25,A5000234272,Duoduo Gao,CN,Wuhan University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4366977335,10.1002/anie.202304559,2023-04-25,A5033040363,Pinsi Deng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4366977335,10.1002/anie.202304559,2023-04-25,A5033040363,Pinsi Deng,CN,Wuhan University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4366977335,10.1002/anie.202304559,2023-04-25,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4366977335,10.1002/anie.202304559,2023-04-25,A5076905500,Liuyang Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4366977335,10.1002/anie.202304559,2023-04-25,A5086617750,Xuefei Wang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4366977335,10.1002/anie.202304559,2023-04-25,A5086617750,Xuefei Wang,CN,Wuhan University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4366977335,10.1002/anie.202304559,2023-04-25,A5060100426,Huogen Yu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4366977335,10.1002/anie.202304559,2023-04-25,A5060100426,Huogen Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4366977335,10.1002/anie.202304559,2023-04-25,A5060100426,Huogen Yu,CN,Wuhan University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4366977335,10.1002/anie.202304559,2023-04-25,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,117,Afb5914645166
+W4391101394,10.1021/acscatal.4c00026,2024-01-22,A5111116234,Ying He,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,113,Afb5914645166
+W4391101394,10.1021/acscatal.4c00026,2024-01-22,A5057304484,Peiyu Hu,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,113,Afb5914645166
+W4391101394,10.1021/acscatal.4c00026,2024-01-22,A5100358209,Jianjun Zhang,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,113,Afb5914645166
+W4391101394,10.1021/acscatal.4c00026,2024-01-22,A5077280830,Guijie Liang,CN,Hubei University of Arts and Science,Materials Chemistry,Materials Science,Physical Sciences,113,Afb5914645166
+W4391101394,10.1021/acscatal.4c00026,2024-01-22,A5100423139,Jiaguo Yu,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,113,Afb5914645166
+W4391101394,10.1021/acscatal.4c00026,2024-01-22,A5004139159,Feiyan Xu,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,113,Afb5914645166
+W4404366588,10.1002/anie.202414672,2024-11-15,A5004139159,Feiyan Xu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4404366588,10.1002/anie.202414672,2024-11-15,A5004139159,Feiyan Xu,CN,China University of Geosciences (Beijing),"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4404366588,10.1002/anie.202414672,2024-11-15,A5045687590,Ying He,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4404366588,10.1002/anie.202414672,2024-11-15,A5045687590,Ying He,CN,China University of Geosciences (Beijing),"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4404366588,10.1002/anie.202414672,2024-11-15,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4404366588,10.1002/anie.202414672,2024-11-15,A5100358209,Jianjun Zhang,CN,China University of Geosciences (Beijing),"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4404366588,10.1002/anie.202414672,2024-11-15,A5077280830,Guijie Liang,CN,Hubei University of Arts and Science,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4404366588,10.1002/anie.202414672,2024-11-15,A5031824581,Chengyuan Liu,CN,University of Science and Technology of China,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4404366588,10.1002/anie.202414672,2024-11-15,A5031824581,Chengyuan Liu,CN,National Synchrotron Radiation Laboratory,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4404366588,10.1002/anie.202414672,2024-11-15,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4412708500,10.1038/s41467-025-60961-5,2025-07-25,A5004139159,Feiyan Xu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4412708500,10.1038/s41467-025-60961-5,2025-07-25,A5004139159,Feiyan Xu,ES,Instituto de Tecnología Química,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4412708500,10.1038/s41467-025-60961-5,2025-07-25,A5004139159,Feiyan Xu,ES,Universitat Politècnica de València,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4412708500,10.1038/s41467-025-60961-5,2025-07-25,A5027039158,Feifan Zhao,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4412708500,10.1038/s41467-025-60961-5,2025-07-25,A5058203345,Xianyu Deng,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4412708500,10.1038/s41467-025-60961-5,2025-07-25,A5100407229,Jinfeng Zhang,CN,Huaibei Normal University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4412708500,10.1038/s41467-025-60961-5,2025-07-25,A5100407229,Jinfeng Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4412708500,10.1038/s41467-025-60961-5,2025-07-25,A5100358209,Jianjun Zhang,CN,Huaibei Normal University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4412708500,10.1038/s41467-025-60961-5,2025-07-25,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4412708500,10.1038/s41467-025-60961-5,2025-07-25,A5111711478,C.F. Ai,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4412708500,10.1038/s41467-025-60961-5,2025-07-25,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4412708500,10.1038/s41467-025-60961-5,2025-07-25,A5014540719,Hermenegildo Garcı́a,ES,Instituto de Tecnología Química,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,104,Afb5914645166
+W4401075460,10.1016/j.apcatb.2024.124459,2024-07-29,A5003707166,Guotai Sun,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,97,Afb5914645166
+W4401075460,10.1016/j.apcatb.2024.124459,2024-07-29,A5083075090,Zige Tai,CN,Nanjing Institute of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,97,Afb5914645166
+W4401075460,10.1016/j.apcatb.2024.124459,2024-07-29,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,97,Afb5914645166
+W4401075460,10.1016/j.apcatb.2024.124459,2024-07-29,A5047596984,Bei Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,97,Afb5914645166
+W4401075460,10.1016/j.apcatb.2024.124459,2024-07-29,A5060100426,Huogen Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,97,Afb5914645166
+W4401075460,10.1016/j.apcatb.2024.124459,2024-07-29,A5110561519,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,97,Afb5914645166
+W4401075460,10.1016/j.apcatb.2024.124459,2024-07-29,A5110561519,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,97,Afb5914645166
+W4414143235,10.1021/jacs.5c11154,2025-09-11,A5000234272,Duoduo Gao,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,95,Afb5914645166
+W4414143235,10.1021/jacs.5c11154,2025-09-11,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,95,Afb5914645166
+W4414143235,10.1021/jacs.5c11154,2025-09-11,A5014540719,Hermenegildo Garcı́a,ES,Universitat Politècnica de València,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,95,Afb5914645166
+W4414143235,10.1021/jacs.5c11154,2025-09-11,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,95,Afb5914645166
+W4414143235,10.1021/jacs.5c11154,2025-09-11,A5060100426,Huogen Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,95,Afb5914645166
+W4376566101,10.1002/adfm.202302325,2023-05-14,A5056399704,Wei Zhong,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,84,Afb5914645166
+W4376566101,10.1002/adfm.202302325,2023-05-14,A5056399704,Wei Zhong,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,84,Afb5914645166
+W4376566101,10.1002/adfm.202302325,2023-05-14,A5051376349,Jiachao Xu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,84,Afb5914645166
+W4376566101,10.1002/adfm.202302325,2023-05-14,A5101533967,Xidong Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,84,Afb5914645166
+W4376566101,10.1002/adfm.202302325,2023-05-14,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,84,Afb5914645166
+W4376566101,10.1002/adfm.202302325,2023-05-14,A5086617750,Xuefei Wang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,84,Afb5914645166
+W4376566101,10.1002/adfm.202302325,2023-05-14,A5060100426,Huogen Yu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,84,Afb5914645166
+W4376566101,10.1002/adfm.202302325,2023-05-14,A5060100426,Huogen Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,84,Afb5914645166
+W4313202122,10.1016/j.apcatb.2022.122301,2022-12-19,A5085404288,Xianglin Xiang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,83,Afb5914645166
+W4313202122,10.1016/j.apcatb.2022.122301,2022-12-19,A5032509793,Bicheng Zhu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,83,Afb5914645166
+W4313202122,10.1016/j.apcatb.2022.122301,2022-12-19,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,83,Afb5914645166
+W4313202122,10.1016/j.apcatb.2022.122301,2022-12-19,A5032326013,Chenhui Jiang,CN,University of Science and Technology of China,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,83,Afb5914645166
+W4313202122,10.1016/j.apcatb.2022.122301,2022-12-19,A5032326013,Chenhui Jiang,CN,Hefei National Center for Physical Sciences at Nanoscale,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,83,Afb5914645166
+W4313202122,10.1016/j.apcatb.2022.122301,2022-12-19,A5100357744,Tao Chen,CN,University of Science and Technology of China,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,83,Afb5914645166
+W4313202122,10.1016/j.apcatb.2022.122301,2022-12-19,A5100357744,Tao Chen,CN,Hefei National Center for Physical Sciences at Nanoscale,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,83,Afb5914645166
+W4313202122,10.1016/j.apcatb.2022.122301,2022-12-19,A5060100426,Huogen Yu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,83,Afb5914645166
+W4313202122,10.1016/j.apcatb.2022.122301,2022-12-19,A5060100426,Huogen Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,83,Afb5914645166
+W4313202122,10.1016/j.apcatb.2022.122301,2022-12-19,A5100423139,Jiaguo Yu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,83,Afb5914645166
+W4313202122,10.1016/j.apcatb.2022.122301,2022-12-19,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,83,Afb5914645166
+W4313202122,10.1016/j.apcatb.2022.122301,2022-12-19,A5029808384,Linxi Wang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,83,Afb5914645166
+W4386035090,10.1016/j.apcatb.2023.123196,2023-08-21,A5085404288,Xianglin Xiang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,81,Afb5914645166
+W4386035090,10.1016/j.apcatb.2023.123196,2023-08-21,A5101925067,Liuyang Zhang,CN,State Ethnic Affairs Commission,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,81,Afb5914645166
+W4386035090,10.1016/j.apcatb.2023.123196,2023-08-21,A5101925067,Liuyang Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,81,Afb5914645166
+W4386035090,10.1016/j.apcatb.2023.123196,2023-08-21,A5064273862,Cheng Luo,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,81,Afb5914645166
+W4386035090,10.1016/j.apcatb.2023.123196,2023-08-21,A5100358209,Jianjun Zhang,CN,State Ethnic Affairs Commission,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,81,Afb5914645166
+W4386035090,10.1016/j.apcatb.2023.123196,2023-08-21,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,81,Afb5914645166
+W4386035090,10.1016/j.apcatb.2023.123196,2023-08-21,A5047596984,Bei Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,81,Afb5914645166
+W4386035090,10.1016/j.apcatb.2023.123196,2023-08-21,A5077280830,Guijie Liang,CN,Hubei University of Arts and Science,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,81,Afb5914645166
+W4386035090,10.1016/j.apcatb.2023.123196,2023-08-21,A5100776805,Zhenyi Zhang,CN,State Ethnic Affairs Commission,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,81,Afb5914645166
+W4386035090,10.1016/j.apcatb.2023.123196,2023-08-21,A5100776805,Zhenyi Zhang,CN,Dalian Minzu University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,81,Afb5914645166
+W4386035090,10.1016/j.apcatb.2023.123196,2023-08-21,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,81,Afb5914645166
+W4285732342,10.1002/adpr.202200065,2022-07-17,A5085404288,Xianglin Xiang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,78,Afb5914645166
+W4285732342,10.1002/adpr.202200065,2022-07-17,A5029808384,Linxi Wang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,78,Afb5914645166
+W4285732342,10.1002/adpr.202200065,2022-07-17,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,78,Afb5914645166
+W4285732342,10.1002/adpr.202200065,2022-07-17,A5047596984,Bei Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,78,Afb5914645166
+W4285732342,10.1002/adpr.202200065,2022-07-17,A5100423139,Jiaguo Yu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,78,Afb5914645166
+W4285732342,10.1002/adpr.202200065,2022-07-17,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,78,Afb5914645166
+W4285732342,10.1002/adpr.202200065,2022-07-17,A5025731429,Wojciech Macyk,PL,Jagiellonian University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,78,Afb5914645166
+W4393282225,10.1016/j.jmst.2024.02.048,2024-03-28,A5016226181,Shuang Zhou,CN,Shenzhen Technology University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,75,Afb5914645166
+W4393282225,10.1016/j.jmst.2024.02.048,2024-03-28,A5014213296,Da Wen,CN,Shenzhen Technology University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,75,Afb5914645166
+W4393282225,10.1016/j.jmst.2024.02.048,2024-03-28,A5100435296,Wei Zhong,CN,Shenzhen Technology University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,75,Afb5914645166
+W4393282225,10.1016/j.jmst.2024.02.048,2024-03-28,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,75,Afb5914645166
+W4393282225,10.1016/j.jmst.2024.02.048,2024-03-28,A5066352805,Yaorong Su,CN,Shenzhen Technology University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,75,Afb5914645166
+W4393282225,10.1016/j.jmst.2024.02.048,2024-03-28,A5109522864,Aiyun Meng,CN,Shenzhen Technology University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,75,Afb5914645166
+W4407739228,10.1016/j.actphy.2025.100064,2025-02-19,A5083450374,Yi Yang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,72,Afb5914645166
+W4407739228,10.1016/j.actphy.2025.100064,2025-02-19,A5083450374,Yi Yang,CN,Hubei University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,72,Afb5914645166
+W4407739228,10.1016/j.actphy.2025.100064,2025-02-19,A5001744159,Xin Zhou,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,72,Afb5914645166
+W4407739228,10.1016/j.actphy.2025.100064,2025-02-19,A5037552541,Miaoli Gu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,72,Afb5914645166
+W4407739228,10.1016/j.actphy.2025.100064,2025-02-19,A5047596984,Bei Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,72,Afb5914645166
+W4407739228,10.1016/j.actphy.2025.100064,2025-02-19,A5103239139,Zhen Wu,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,72,Afb5914645166
+W4407739228,10.1016/j.actphy.2025.100064,2025-02-19,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,72,Afb5914645166
+W4389526857,10.1002/smll.202308952,2023-12-10,A5104111413,Zheng Meng,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,65,Afb5914645166
+W4389526857,10.1002/smll.202308952,2023-12-10,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,65,Afb5914645166
+W4389526857,10.1002/smll.202308952,2023-12-10,A5108647464,Chenchen Jiang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,65,Afb5914645166
+W4389526857,10.1002/smll.202308952,2023-12-10,A5082785038,Christos Trapalis,GR,"National Centre of Scientific Research ""Demokritos""","Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,65,Afb5914645166
+W4389526857,10.1002/smll.202308952,2023-12-10,A5076905500,Liuyang Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,65,Afb5914645166
+W4389526857,10.1002/smll.202308952,2023-12-10,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,65,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5051181327,María Cabrero‐Antonino,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5053454388,Andrés Uscategui-Linares,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5036604720,Rubén Ramírez‐Grau,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5000258837,Pablo García-Aznar,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5060124219,Germán Sastre,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5100358209,Jianjun Zhang,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5100358209,Jianjun Zhang,CN,China University of Geosciences (Beijing),Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5067969184,Sara Goberna‐Ferrón,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5035200677,Josep Albero,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5110561519,Jiaguo Yu,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5110561519,Jiaguo Yu,CN,China University of Geosciences (Beijing),Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5014540719,Hermenegildo Garcı́a,ES,Universitat de València,Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5014540719,Hermenegildo Garcı́a,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5014540719,Hermenegildo Garcı́a,ES,Universitat Politècnica de València,Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5004139159,Feiyan Xu,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5004139159,Feiyan Xu,CN,China University of Geosciences (Beijing),Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5004139159,Feiyan Xu,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4410344672,10.1002/anie.202503860,2025-05-13,A5071474907,Ana Primo,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,60,Afb5914645166
+W4407573486,10.1016/j.jmst.2024.12.040,2025-02-14,A5036854807,Yanyan Zhao,CN,Shangluo University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,56,Afb5914645166
+W4407573486,10.1016/j.jmst.2024.12.040,2025-02-14,A5100419830,Yong Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,56,Afb5914645166
+W4407573486,10.1016/j.jmst.2024.12.040,2025-02-14,A5100419830,Yong Zhang,CN,Hubei Polytechnic University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,56,Afb5914645166
+W4407573486,10.1016/j.jmst.2024.12.040,2025-02-14,A5100730572,Libo Wang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,56,Afb5914645166
+W4407573486,10.1016/j.jmst.2024.12.040,2025-02-14,A5111711478,C.F. Ai,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,56,Afb5914645166
+W4407573486,10.1016/j.jmst.2024.12.040,2025-02-14,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,56,Afb5914645166
+W4362704970,10.1016/j.jmst.2023.02.044,2023-04-07,A5100358209,Jianjun Zhang,SG,Nanyang Technological University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,55,Afb5914645166
+W4362704970,10.1016/j.jmst.2023.02.044,2023-04-07,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,55,Afb5914645166
+W4362704970,10.1016/j.jmst.2023.02.044,2023-04-07,A5115592365,Jingjing Liu,CN,Jiangxi Science and Technology Normal University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,55,Afb5914645166
+W4362704970,10.1016/j.jmst.2023.02.044,2023-04-07,A5104111413,Zheng Meng,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,55,Afb5914645166
+W4362704970,10.1016/j.jmst.2023.02.044,2023-04-07,A5055517266,Sanjib Jana,SG,Nanyang Technological University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,55,Afb5914645166
+W4362704970,10.1016/j.jmst.2023.02.044,2023-04-07,A5029808384,Linxi Wang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,55,Afb5914645166
+W4362704970,10.1016/j.jmst.2023.02.044,2023-04-07,A5032509793,Bicheng Zhu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,55,Afb5914645166
+W4403096171,10.1021/acscatal.4c03916,2024-10-03,A5051376349,Jiachao Xu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,50,Afb5914645166
+W4403096171,10.1021/acscatal.4c03916,2024-10-03,A5101533967,Xidong Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,50,Afb5914645166
+W4403096171,10.1021/acscatal.4c03916,2024-10-03,A5086617750,Xuefei Wang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,50,Afb5914645166
+W4403096171,10.1021/acscatal.4c03916,2024-10-03,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,50,Afb5914645166
+W4403096171,10.1021/acscatal.4c03916,2024-10-03,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,50,Afb5914645166
+W4403096171,10.1021/acscatal.4c03916,2024-10-03,A5060100426,Huogen Yu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,50,Afb5914645166
+W4403096171,10.1021/acscatal.4c03916,2024-10-03,A5060100426,Huogen Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,50,Afb5914645166
+W4412653384,10.1002/adma.202512144,2025-07-25,A5050364830,Jingzhao Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,44,Afb5914645166
+W4412653384,10.1002/adma.202512144,2025-07-25,A5100785734,Wang Wang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,44,Afb5914645166
+W4412653384,10.1002/adma.202512144,2025-07-25,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,44,Afb5914645166
+W4412653384,10.1002/adma.202512144,2025-07-25,A5063233984,Sijie Wan,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,44,Afb5914645166
+W4412653384,10.1002/adma.202512144,2025-07-25,A5047596984,Bei Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,44,Afb5914645166
+W4412653384,10.1002/adma.202512144,2025-07-25,A5108933757,Guoqiang Luo,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,44,Afb5914645166
+W4412653384,10.1002/adma.202512144,2025-07-25,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,44,Afb5914645166
+W4412653384,10.1002/adma.202512144,2025-07-25,A5006868699,Jingsan Xu,AU,Queensland University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,44,Afb5914645166
+W4412653384,10.1002/adma.202512144,2025-07-25,A5053814985,Shaowen Cao,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,44,Afb5914645166
+W4308922565,10.1016/j.jmst.2022.11.001,2022-11-11,A5100358209,Jianjun Zhang,SG,Nanyang Technological University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,43,Afb5914645166
+W4308922565,10.1016/j.jmst.2022.11.001,2022-11-11,A5100358209,Jianjun Zhang,CN,Hubei Polytechnic University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,43,Afb5914645166
+W4308922565,10.1016/j.jmst.2022.11.001,2022-11-11,A5035755593,Le Yao,CN,Hubei University of Education,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,43,Afb5914645166
+W4308922565,10.1016/j.jmst.2022.11.001,2022-11-11,A5100419819,Yong Zhang,CN,Hubei Polytechnic University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,43,Afb5914645166
+W4404409319,10.1016/j.jmat.2024.100970,2024-11-15,A5109578062,Yanyan Zhao,CN,Shangluo University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,38,Afb5914645166
+W4404409319,10.1016/j.jmat.2024.100970,2024-11-15,A5100419830,Yong Zhang,CN,Hubei Polytechnic University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,38,Afb5914645166
+W4404409319,10.1016/j.jmat.2024.100970,2024-11-15,A5102798655,Haiyan Tan,CN,Hubei University for Nationalities,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,38,Afb5914645166
+W4404409319,10.1016/j.jmat.2024.100970,2024-11-15,A5102798655,Haiyan Tan,CN,Hubei University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,38,Afb5914645166
+W4404409319,10.1016/j.jmat.2024.100970,2024-11-15,A5111711478,C.F. Ai,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,38,Afb5914645166
+W4404409319,10.1016/j.jmat.2024.100970,2024-11-15,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,38,Afb5914645166
+W4402926732,10.1021/acscatal.4c04644,2024-09-27,A5057304484,Peiyu Hu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,35,Afb5914645166
+W4402926732,10.1021/acscatal.4c04644,2024-09-27,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,35,Afb5914645166
+W4402926732,10.1021/acscatal.4c04644,2024-09-27,A5077280830,Guijie Liang,CN,Hubei University of Arts and Science,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,35,Afb5914645166
+W4402926732,10.1021/acscatal.4c04644,2024-09-27,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,35,Afb5914645166
+W4402926732,10.1021/acscatal.4c04644,2024-09-27,A5004139159,Feiyan Xu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,35,Afb5914645166
+W4408078415,10.1016/j.jmst.2024.12.076,2025-03-01,A5100719243,Hongying Li,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,34,Afb5914645166
+W4408078415,10.1016/j.jmst.2024.12.076,2025-03-01,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,34,Afb5914645166
+W4408078415,10.1016/j.jmst.2024.12.076,2025-03-01,A5100424243,Xin Zhou,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,34,Afb5914645166
+W4408078415,10.1016/j.jmst.2024.12.076,2025-03-01,A5103239139,Zhen Wu,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,34,Afb5914645166
+W4408078415,10.1016/j.jmst.2024.12.076,2025-03-01,A5076905500,Liuyang Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,34,Afb5914645166
+W4404950192,10.1016/s1872-2067(24)60159-2,2024-12-01,A5013633237,Zhihan Yu,CN,University of Electronic Science and Technology of China,Electrical and Electronic Engineering,Engineering,Physical Sciences,31,Afb5914645166
+W4404950192,10.1016/s1872-2067(24)60159-2,2024-12-01,A5024890103,Dainan Zhang,CN,University of Electronic Science and Technology of China,Electrical and Electronic Engineering,Engineering,Physical Sciences,31,Afb5914645166
+W4404950192,10.1016/s1872-2067(24)60159-2,2024-12-01,A5024890103,Dainan Zhang,CN,China University of Geosciences,Electrical and Electronic Engineering,Engineering,Physical Sciences,31,Afb5914645166
+W4404950192,10.1016/s1872-2067(24)60159-2,2024-12-01,A5077139022,Chenbing Ai,CN,China University of Geosciences,Electrical and Electronic Engineering,Engineering,Physical Sciences,31,Afb5914645166
+W4404950192,10.1016/s1872-2067(24)60159-2,2024-12-01,A5100358209,Jianjun Zhang,CN,China University of Geosciences,Electrical and Electronic Engineering,Engineering,Physical Sciences,31,Afb5914645166
+W4404950192,10.1016/s1872-2067(24)60159-2,2024-12-01,A5013405046,Quanjun Xiang,CN,University of Electronic Science and Technology of China,Electrical and Electronic Engineering,Engineering,Physical Sciences,31,Afb5914645166
+W4405039651,10.1016/j.jmat.2024.100985,2024-12-05,A5004543931,Youjun Wang,CN,Hubei Polytechnic University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,31,Afb5914645166
+W4405039651,10.1016/j.jmat.2024.100985,2024-12-05,A5100681911,Shumin Zhang,CN,Changsha University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,31,Afb5914645166
+W4405039651,10.1016/j.jmat.2024.100985,2024-12-05,A5109578062,Yanyan Zhao,CN,Shangluo University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,31,Afb5914645166
+W4405039651,10.1016/j.jmat.2024.100985,2024-12-05,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,31,Afb5914645166
+W4391347443,10.1007/s40843-023-2760-1,2024-01-23,A5113107875,Yuanxiao Wu,CN,Ningbo University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,30,Afb5914645166
+W4391347443,10.1007/s40843-023-2760-1,2024-01-23,A5101298452,Mengru Qu,CN,Ningbo University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,30,Afb5914645166
+W4391347443,10.1007/s40843-023-2760-1,2024-01-23,A5084122327,Shujuan Jiang,CN,Ningbo University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,30,Afb5914645166
+W4391347443,10.1007/s40843-023-2760-1,2024-01-23,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,30,Afb5914645166
+W4391347443,10.1007/s40843-023-2760-1,2024-01-23,A5062661521,Shaoqing Song,CN,Ningbo University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,30,Afb5914645166
+W4414447998,10.1021/aps.5c00021,2025-09-23,A5111711478,C.F. Ai,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,30,Afb5914645166
+W4414447998,10.1021/aps.5c00021,2025-09-23,A5076274939,Bowen He,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,30,Afb5914645166
+W4414447998,10.1021/aps.5c00021,2025-09-23,A5100358209,Jianjun Zhang,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,30,Afb5914645166
+W4414447998,10.1021/aps.5c00021,2025-09-23,A5100423139,Jiaguo Yu,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,30,Afb5914645166
+W4411974920,10.1021/acscatal.5c03346,2025-07-03,A5075690063,Jinhe Li,CN,Jiangsu University,Process Chemistry and Technology,Chemical Engineering,Physical Sciences,26,Afb5914645166
+W4411974920,10.1021/acscatal.5c03346,2025-07-03,A5113831862,Zhao Yusen,CN,Jiangsu University,Process Chemistry and Technology,Chemical Engineering,Physical Sciences,26,Afb5914645166
+W4411974920,10.1021/acscatal.5c03346,2025-07-03,A5107918473,Xiaohui Yu,CN,Jiangsu University,Process Chemistry and Technology,Chemical Engineering,Physical Sciences,26,Afb5914645166
+W4411974920,10.1021/acscatal.5c03346,2025-07-03,A5075671977,Wei Ren,CN,Jiangsu University,Process Chemistry and Technology,Chemical Engineering,Physical Sciences,26,Afb5914645166
+W4411974920,10.1021/acscatal.5c03346,2025-07-03,A5101693275,Lijuan Sun,CN,Jiangsu University,Process Chemistry and Technology,Chemical Engineering,Physical Sciences,26,Afb5914645166
+W4411974920,10.1021/acscatal.5c03346,2025-07-03,A5100383682,Lele Wang,CN,Jiangsu University,Process Chemistry and Technology,Chemical Engineering,Physical Sciences,26,Afb5914645166
+W4411974920,10.1021/acscatal.5c03346,2025-07-03,A5100663688,Weikang Wang,CN,Jiangsu University,Process Chemistry and Technology,Chemical Engineering,Physical Sciences,26,Afb5914645166
+W4411974920,10.1021/acscatal.5c03346,2025-07-03,A5100358209,Jianjun Zhang,CN,China University of Geosciences,Process Chemistry and Technology,Chemical Engineering,Physical Sciences,26,Afb5914645166
+W4411974920,10.1021/acscatal.5c03346,2025-07-03,A5000720000,Juan Yang,CN,Jiangsu University,Process Chemistry and Technology,Chemical Engineering,Physical Sciences,26,Afb5914645166
+W4411974920,10.1021/acscatal.5c03346,2025-07-03,A5044924220,Qinqin Liu,CN,Jiangsu University,Process Chemistry and Technology,Chemical Engineering,Physical Sciences,26,Afb5914645166
+W4404538266,10.1016/j.jmat.2024.100974,2024-11-20,A5001744159,Xin Zhou,CN,Inner Mongolia University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,24,Afb5914645166
+W4404538266,10.1016/j.jmat.2024.100974,2024-11-20,A5001744159,Xin Zhou,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,24,Afb5914645166
+W4404538266,10.1016/j.jmat.2024.100974,2024-11-20,A5001744159,Xin Zhou,CN,Inner Mongolia Electric Power Survey & Design Institute (China),"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,24,Afb5914645166
+W4404538266,10.1016/j.jmat.2024.100974,2024-11-20,A5111711478,C.F. Ai,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,24,Afb5914645166
+W4404538266,10.1016/j.jmat.2024.100974,2024-11-20,A5100411589,Xiaojing Wang,CN,Inner Mongolia University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,24,Afb5914645166
+W4404538266,10.1016/j.jmat.2024.100974,2024-11-20,A5103239139,Zhen Wu,CN,Inner Mongolia Electric Power Survey & Design Institute (China),"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,24,Afb5914645166
+W4404538266,10.1016/j.jmat.2024.100974,2024-11-20,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,24,Afb5914645166
+W4402202594,10.3866/pku.whxb202407021,2024-09-03,A5111320855,Yuejiao An,CN,Hebei Normal University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,23,Afb5914645166
+W4402202594,10.3866/pku.whxb202407021,2024-09-03,A5101564556,Wenxuan Liu,CN,Henan Normal University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,23,Afb5914645166
+W4402202594,10.3866/pku.whxb202407021,2024-09-03,A5100367498,Yanfeng Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,23,Afb5914645166
+W4402202594,10.3866/pku.whxb202407021,2024-09-03,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,23,Afb5914645166
+W4402202594,10.3866/pku.whxb202407021,2024-09-03,A5064490904,Zhansheng Lu,CN,Beijing University of Chemical Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,23,Afb5914645166
+W4402202594,10.3866/pku.whxb202407021,2024-09-03,A5064490904,Zhansheng Lu,CN,Henan Normal University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,23,Afb5914645166
+W4403729405,10.1016/s1872-2067(24)60119-1,2024-10-01,A5102639483,Shanshan Lai,CN,Ningbo University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,22,Afb5914645166
+W4403729405,10.1016/s1872-2067(24)60119-1,2024-10-01,A5055163992,Jiakun Su,CN,China Tobacco,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,22,Afb5914645166
+W4403729405,10.1016/s1872-2067(24)60119-1,2024-10-01,A5084122327,Shujuan Jiang,CN,Ningbo University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,22,Afb5914645166
+W4403729405,10.1016/s1872-2067(24)60119-1,2024-10-01,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,22,Afb5914645166
+W4403729405,10.1016/s1872-2067(24)60119-1,2024-10-01,A5062661521,Shaoqing Song,CN,Ningbo University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,22,Afb5914645166
+W4411194718,10.1016/j.cej.2025.164759,2025-06-11,A5109578062,Yanyan Zhao,CN,Shangluo University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,18,Afb5914645166
+W4411194718,10.1016/j.cej.2025.164759,2025-06-11,A5100411886,Dan Wang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,18,Afb5914645166
+W4411194718,10.1016/j.cej.2025.164759,2025-06-11,A5100411886,Dan Wang,CN,Shangluo University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,18,Afb5914645166
+W4411194718,10.1016/j.cej.2025.164759,2025-06-11,A5003707166,Guotai Sun,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,18,Afb5914645166
+W4411194718,10.1016/j.cej.2025.164759,2025-06-11,A5101551725,Libo Wang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,18,Afb5914645166
+W4411194718,10.1016/j.cej.2025.164759,2025-06-11,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,18,Afb5914645166
+W4411194718,10.1016/j.cej.2025.164759,2025-06-11,A5032509793,Bicheng Zhu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,18,Afb5914645166
+W4410267962,10.1002/smll.202500130,2025-05-08,A5104315952,Xinyu Zeng,CN,Wuhan University of Technology,Materials Chemistry,Materials Science,Physical Sciences,15,Afb5914645166
+W4410267962,10.1002/smll.202500130,2025-05-08,A5059518214,Kai Meng,CN,Wuhan University of Technology,Materials Chemistry,Materials Science,Physical Sciences,15,Afb5914645166
+W4410267962,10.1002/smll.202500130,2025-05-08,A5100785734,Wang Wang,CN,Wuhan University of Technology,Materials Chemistry,Materials Science,Physical Sciences,15,Afb5914645166
+W4410267962,10.1002/smll.202500130,2025-05-08,A5100358209,Jianjun Zhang,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,15,Afb5914645166
+W4410267962,10.1002/smll.202500130,2025-05-08,A5047596984,Bei Cheng,CN,Wuhan University of Technology,Materials Chemistry,Materials Science,Physical Sciences,15,Afb5914645166
+W4410267962,10.1002/smll.202500130,2025-05-08,A5100366512,Song Zhang,CN,Wuhan University of Technology,Materials Chemistry,Materials Science,Physical Sciences,15,Afb5914645166
+W4410267962,10.1002/smll.202500130,2025-05-08,A5033285308,Guoqiang Luo,CN,Wuhan University of Technology,Materials Chemistry,Materials Science,Physical Sciences,15,Afb5914645166
+W4410267962,10.1002/smll.202500130,2025-05-08,A5100423139,Jiaguo Yu,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,15,Afb5914645166
+W4410267962,10.1002/smll.202500130,2025-05-08,A5053814985,Shaowen Cao,CN,Wuhan University of Technology,Materials Chemistry,Materials Science,Physical Sciences,15,Afb5914645166
+W4414442645,10.1016/j.jece.2025.119415,2025-09-23,A5009843126,Muhammad Iqbal Sabir,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,15,Afb5914645166
+W4414442645,10.1016/j.jece.2025.119415,2025-09-23,A5083349905,Guogen Qiu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,15,Afb5914645166
+W4414442645,10.1016/j.jece.2025.119415,2025-09-23,A5077822659,Songyu Yang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,15,Afb5914645166
+W4414442645,10.1016/j.jece.2025.119415,2025-09-23,A5002267226,Muhammad Tahir,CN,Beijing Institute of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,15,Afb5914645166
+W4414442645,10.1016/j.jece.2025.119415,2025-09-23,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,15,Afb5914645166
+W4414442645,10.1016/j.jece.2025.119415,2025-09-23,A5072519685,Mahmoud Sayed,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,15,Afb5914645166
+W4414442645,10.1016/j.jece.2025.119415,2025-09-23,A5072519685,Mahmoud Sayed,EG,Fayoum University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,15,Afb5914645166
+W4404366553,10.1002/ange.202414672,2024-11-15,A5004139159,Feiyan Xu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,13,Afb5914645166
+W4404366553,10.1002/ange.202414672,2024-11-15,A5004139159,Feiyan Xu,CN,China University of Geosciences (Beijing),"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,13,Afb5914645166
+W4404366553,10.1002/ange.202414672,2024-11-15,A5045687590,Ying He,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,13,Afb5914645166
+W4404366553,10.1002/ange.202414672,2024-11-15,A5045687590,Ying He,CN,China University of Geosciences (Beijing),"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,13,Afb5914645166
+W4404366553,10.1002/ange.202414672,2024-11-15,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,13,Afb5914645166
+W4404366553,10.1002/ange.202414672,2024-11-15,A5100358209,Jianjun Zhang,CN,China University of Geosciences (Beijing),"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,13,Afb5914645166
+W4404366553,10.1002/ange.202414672,2024-11-15,A5077280830,Guijie Liang,CN,Hubei University of Arts and Science,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,13,Afb5914645166
+W4404366553,10.1002/ange.202414672,2024-11-15,A5031824581,Chengyuan Liu,CN,University of Science and Technology of China,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,13,Afb5914645166
+W4404366553,10.1002/ange.202414672,2024-11-15,A5031824581,Chengyuan Liu,CN,National Synchrotron Radiation Laboratory,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,13,Afb5914645166
+W4404366553,10.1002/ange.202414672,2024-11-15,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,13,Afb5914645166
+W4413444296,10.1016/j.actphy.2025.100160,2025-08-15,A5001744159,Xin Zhou,CN,Inner Mongolia University,Electrical and Electronic Engineering,Engineering,Physical Sciences,13,Afb5914645166
+W4413444296,10.1016/j.actphy.2025.100160,2025-08-15,A5001744159,Xin Zhou,CN,China University of Geosciences,Electrical and Electronic Engineering,Engineering,Physical Sciences,13,Afb5914645166
+W4413444296,10.1016/j.actphy.2025.100160,2025-08-15,A5001744159,Xin Zhou,CN,Inner Mongolia Electric Power Survey & Design Institute (China),Electrical and Electronic Engineering,Engineering,Physical Sciences,13,Afb5914645166
+W4413444296,10.1016/j.actphy.2025.100160,2025-08-15,A5087851730,Yiting Huo,CN,Inner Mongolia Electric Power Survey & Design Institute (China),Electrical and Electronic Engineering,Engineering,Physical Sciences,13,Afb5914645166
+W4413444296,10.1016/j.actphy.2025.100160,2025-08-15,A5077822659,Songyu Yang,CN,China University of Geosciences,Electrical and Electronic Engineering,Engineering,Physical Sciences,13,Afb5914645166
+W4413444296,10.1016/j.actphy.2025.100160,2025-08-15,A5076274939,Bowen He,CN,China University of Geosciences,Electrical and Electronic Engineering,Engineering,Physical Sciences,13,Afb5914645166
+W4413444296,10.1016/j.actphy.2025.100160,2025-08-15,A5100411589,Xiaojing Wang,CN,Inner Mongolia University,Electrical and Electronic Engineering,Engineering,Physical Sciences,13,Afb5914645166
+W4413444296,10.1016/j.actphy.2025.100160,2025-08-15,A5103239139,Zhen Wu,CN,Inner Mongolia Electric Power Survey & Design Institute (China),Electrical and Electronic Engineering,Engineering,Physical Sciences,13,Afb5914645166
+W4413444296,10.1016/j.actphy.2025.100160,2025-08-15,A5100358209,Jianjun Zhang,CN,China University of Geosciences,Electrical and Electronic Engineering,Engineering,Physical Sciences,13,Afb5914645166
+W4412764061,10.1016/j.actphy.2025.100142,2025-07-30,A5036854807,Yanyan Zhao,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,10,Afb5914645166
+W4412764061,10.1016/j.actphy.2025.100142,2025-07-30,A5103239139,Zhen Wu,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,10,Afb5914645166
+W4412764061,10.1016/j.actphy.2025.100142,2025-07-30,A5106035135,Yong Zhang,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,10,Afb5914645166
+W4412764061,10.1016/j.actphy.2025.100142,2025-07-30,A5032509793,Bicheng Zhu,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,10,Afb5914645166
+W4412764061,10.1016/j.actphy.2025.100142,2025-07-30,A5100358209,Jianjun Zhang,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,10,Afb5914645166
+W2474126133,10.1016/j.jallcom.2016.07.018,2016-07-04,A5109130578,J.J. Tang,CN,Xi'an Jiaotong University,Aerospace Engineering,Engineering,Physical Sciences,62,Afb5914645166
+W2474126133,10.1016/j.jallcom.2016.07.018,2016-07-04,A5031233431,Yaping Bai,CN,Xi'an Jiaotong University,Aerospace Engineering,Engineering,Physical Sciences,62,Afb5914645166
+W2474126133,10.1016/j.jallcom.2016.07.018,2016-07-04,A5100358209,Jianjun Zhang,CN,Xi'an Jiaotong University,Aerospace Engineering,Engineering,Physical Sciences,62,Afb5914645166
+W2474126133,10.1016/j.jallcom.2016.07.018,2016-07-04,A5072161490,K. Liu,CN,Xi'an Jiaotong University,Aerospace Engineering,Engineering,Physical Sciences,62,Afb5914645166
+W2474126133,10.1016/j.jallcom.2016.07.018,2016-07-04,A5108217778,X.Y. Liu,CN,Xi'an Jiaotong University,Aerospace Engineering,Engineering,Physical Sciences,62,Afb5914645166
+W2474126133,10.1016/j.jallcom.2016.07.018,2016-07-04,A5100628830,Peng Zhang,CN,Xi'an Jiaotong University,Aerospace Engineering,Engineering,Physical Sciences,62,Afb5914645166
+W2474126133,10.1016/j.jallcom.2016.07.018,2016-07-04,A5051049053,Yecheng Wang,CN,Xi'an Jiaotong University,Aerospace Engineering,Engineering,Physical Sciences,62,Afb5914645166
+W2474126133,10.1016/j.jallcom.2016.07.018,2016-07-04,A5100433917,Lei Zhang,CN,Xi'an Jiaotong University,Aerospace Engineering,Engineering,Physical Sciences,62,Afb5914645166
+W2474126133,10.1016/j.jallcom.2016.07.018,2016-07-04,A5062570105,G.Y. Liang,CN,Xi'an Jiaotong University,Aerospace Engineering,Engineering,Physical Sciences,62,Afb5914645166
+W2474126133,10.1016/j.jallcom.2016.07.018,2016-07-04,A5006825985,Yu Gao,CN,Xi'an Jiaotong University,Aerospace Engineering,Engineering,Physical Sciences,62,Afb5914645166
+W2474126133,10.1016/j.jallcom.2016.07.018,2016-07-04,A5047435768,Jianfeng Yang,CN,Xi'an Jiaotong University,Aerospace Engineering,Engineering,Physical Sciences,62,Afb5914645166
+W2015868705,10.1016/j.matdes.2015.04.002,2015-04-06,A5100358209,Jianjun Zhang,CN,Xi'an Jiaotong University,Mechanical Engineering,Engineering,Physical Sciences,61,Afb5914645166
+W2015868705,10.1016/j.matdes.2015.04.002,2015-04-06,A5050171530,C. Chen,CN,Nanjing University of Aeronautics and Astronautics,Mechanical Engineering,Engineering,Physical Sciences,61,Afb5914645166
+W2015868705,10.1016/j.matdes.2015.04.002,2015-04-06,A5083214379,Qing‐Xiang Pei,SG,"Agency for Science, Technology and Research",Mechanical Engineering,Engineering,Physical Sciences,61,Afb5914645166
+W2015868705,10.1016/j.matdes.2015.04.002,2015-04-06,A5083214379,Qing‐Xiang Pei,SG,Institute of High Performance Computing,Mechanical Engineering,Engineering,Physical Sciences,61,Afb5914645166
+W2015868705,10.1016/j.matdes.2015.04.002,2015-04-06,A5032633686,Qiang Wan,CN,China Academy of Engineering Physics,Mechanical Engineering,Engineering,Physical Sciences,61,Afb5914645166
+W2015868705,10.1016/j.matdes.2015.04.002,2015-04-06,A5025339032,W.X. Zhang,CN,Xi'an Jiaotong University,Mechanical Engineering,Engineering,Physical Sciences,61,Afb5914645166
+W2015868705,10.1016/j.matdes.2015.04.002,2015-04-06,A5100764404,Zhen-Dong Sha,CN,Xi'an Jiaotong University,Mechanical Engineering,Engineering,Physical Sciences,61,Afb5914645166
+W3046752721,10.1016/j.jallcom.2020.156597,2020-08-02,A5055484848,S. Li,CN,Xi'an Jiaotong University,Mechanical Engineering,Engineering,Physical Sciences,33,Afb5914645166
+W3046752721,10.1016/j.jallcom.2020.156597,2020-08-02,A5100358209,Jianjun Zhang,CN,Xi'an Jiaotong University,Mechanical Engineering,Engineering,Physical Sciences,33,Afb5914645166
+W3046752721,10.1016/j.jallcom.2020.156597,2020-08-02,A5100764404,Zhen-Dong Sha,CN,Dalian University of Technology,Mechanical Engineering,Engineering,Physical Sciences,33,Afb5914645166
+W3046752721,10.1016/j.jallcom.2020.156597,2020-08-02,A5100764404,Zhen-Dong Sha,CN,Xi'an Jiaotong University,Mechanical Engineering,Engineering,Physical Sciences,33,Afb5914645166
+W4401536587,10.1016/j.apcatb.2024.124500,2024-08-13,A5062792923,Yi‐Qi Zhang,CN,Ningbo University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,15,Afb5914645166
+W4401536587,10.1016/j.apcatb.2024.124500,2024-08-13,A5062792923,Yi‐Qi Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,15,Afb5914645166
+W4401536587,10.1016/j.apcatb.2024.124500,2024-08-13,A5076020106,Denghui Ma,CN,Ningbo University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,15,Afb5914645166
+W4401536587,10.1016/j.apcatb.2024.124500,2024-08-13,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,15,Afb5914645166
+W4401536587,10.1016/j.apcatb.2024.124500,2024-08-13,A5062661521,Shaoqing Song,CN,Ningbo University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,15,Afb5914645166
+W4405746580,10.1016/j.jmat.2024.100998,2024-12-24,A5039686000,Xifeng Hou,CN,Hebei Normal University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,10,Afb5914645166
+W4405746580,10.1016/j.jmat.2024.100998,2024-12-24,A5111711478,C.F. Ai,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,10,Afb5914645166
+W4405746580,10.1016/j.jmat.2024.100998,2024-12-24,A5077822659,Songyu Yang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,10,Afb5914645166
+W4405746580,10.1016/j.jmat.2024.100998,2024-12-24,A5100358209,Jianjun Zhang,CN,Hebei Normal University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,10,Afb5914645166
+W4405746580,10.1016/j.jmat.2024.100998,2024-12-24,A5100367498,Yanfeng Zhang,CN,Hebei Normal University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,10,Afb5914645166
+W4405746580,10.1016/j.jmat.2024.100998,2024-12-24,A5053253277,Jingze Liu,CN,Hebei Normal University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,10,Afb5914645166
+W4366984004,10.1002/ange.202304559,2023-04-25,A5000234272,Duoduo Gao,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,9,Afb5914645166
+W4366984004,10.1002/ange.202304559,2023-04-25,A5000234272,Duoduo Gao,CN,Wuhan University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,9,Afb5914645166
+W4366984004,10.1002/ange.202304559,2023-04-25,A5033040363,Pinsi Deng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,9,Afb5914645166
+W4366984004,10.1002/ange.202304559,2023-04-25,A5033040363,Pinsi Deng,CN,Wuhan University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,9,Afb5914645166
+W4366984004,10.1002/ange.202304559,2023-04-25,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,9,Afb5914645166
+W4366984004,10.1002/ange.202304559,2023-04-25,A5076905500,Liuyang Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,9,Afb5914645166
+W4366984004,10.1002/ange.202304559,2023-04-25,A5086617750,Xuefei Wang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,9,Afb5914645166
+W4366984004,10.1002/ange.202304559,2023-04-25,A5086617750,Xuefei Wang,CN,Wuhan University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,9,Afb5914645166
+W4366984004,10.1002/ange.202304559,2023-04-25,A5060100426,Huogen Yu,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,9,Afb5914645166
+W4366984004,10.1002/ange.202304559,2023-04-25,A5060100426,Huogen Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,9,Afb5914645166
+W4366984004,10.1002/ange.202304559,2023-04-25,A5060100426,Huogen Yu,CN,Wuhan University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,9,Afb5914645166
+W4366984004,10.1002/ange.202304559,2023-04-25,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,9,Afb5914645166
+W4396705482,10.1002/ange.202406310,2024-05-07,A5050364830,Jingzhao Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,7,Afb5914645166
+W4396705482,10.1002/ange.202406310,2024-05-07,A5100785734,Wang Wang,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,7,Afb5914645166
+W4396705482,10.1002/ange.202406310,2024-05-07,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,7,Afb5914645166
+W4396705482,10.1002/ange.202406310,2024-05-07,A5063233984,Sijie Wan,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,7,Afb5914645166
+W4396705482,10.1002/ange.202406310,2024-05-07,A5047596984,Bei Cheng,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,7,Afb5914645166
+W4396705482,10.1002/ange.202406310,2024-05-07,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,7,Afb5914645166
+W4396705482,10.1002/ange.202406310,2024-05-07,A5053814985,Shaowen Cao,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,7,Afb5914645166
+W4405515383,10.1016/j.renene.2024.122202,2024-12-18,A5090702314,Haitao Wang,CN,Anhui Jianzhu University,Mechanical Engineering,Engineering,Physical Sciences,7,Afb5914645166
+W4405515383,10.1016/j.renene.2024.122202,2024-12-18,A5100336542,Siqi Li,CN,Anhui Jianzhu University,Mechanical Engineering,Engineering,Physical Sciences,7,Afb5914645166
+W4405515383,10.1016/j.renene.2024.122202,2024-12-18,A5113411863,Keke Lei,CN,Anhui Jianzhu University,Mechanical Engineering,Engineering,Physical Sciences,7,Afb5914645166
+W4405515383,10.1016/j.renene.2024.122202,2024-12-18,A5100358209,Jianjun Zhang,CN,Anhui Jianzhu University,Mechanical Engineering,Engineering,Physical Sciences,7,Afb5914645166
+W4415452567,10.1016/j.actphy.2025.100211,2025-10-23,A5101148906,Kaiqiang Xu,CN,Shanghai Institute of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,5,Afb5914645166
+W4415452567,10.1016/j.actphy.2025.100211,2025-10-23,A5102527248,Jia Yu,CN,Shanghai Institute of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,5,Afb5914645166
+W4415452567,10.1016/j.actphy.2025.100211,2025-10-23,A5067662547,Wei Xia,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,5,Afb5914645166
+W4415452567,10.1016/j.actphy.2025.100211,2025-10-23,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,5,Afb5914645166
+W4415452567,10.1016/j.actphy.2025.100211,2025-10-23,A5088981932,Sheng Han,CN,Shanghai Institute of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,5,Afb5914645166
+W4381058930,10.1016/b978-0-443-18786-5.00004-4,2023-01-01,A5076905500,Liuyang Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,6,Afb5914645166
+W4381058930,10.1016/b978-0-443-18786-5.00004-4,2023-01-01,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,6,Afb5914645166
+W4381058930,10.1016/b978-0-443-18786-5.00004-4,2023-01-01,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,6,Afb5914645166
+W4388139136,10.1002/ange.202313172,2023-11-01,A5076274939,Bowen He,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,3,Afb5914645166
+W4388139136,10.1002/ange.202313172,2023-11-01,A5100727588,Peng Xiao,CN,University of Science and Technology of China,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,3,Afb5914645166
+W4388139136,10.1002/ange.202313172,2023-11-01,A5100727588,Peng Xiao,CN,Hefei National Center for Physical Sciences at Nanoscale,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,3,Afb5914645166
+W4388139136,10.1002/ange.202313172,2023-11-01,A5063233984,Sijie Wan,CN,Wuhan University of Technology,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,3,Afb5914645166
+W4388139136,10.1002/ange.202313172,2023-11-01,A5100358209,Jianjun Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,3,Afb5914645166
+W4388139136,10.1002/ange.202313172,2023-11-01,A5100357744,Tao Chen,CN,University of Science and Technology of China,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,3,Afb5914645166
+W4388139136,10.1002/ange.202313172,2023-11-01,A5100357744,Tao Chen,CN,Hefei National Center for Physical Sciences at Nanoscale,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,3,Afb5914645166
+W4388139136,10.1002/ange.202313172,2023-11-01,A5076905500,Liuyang Zhang,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,3,Afb5914645166
+W4388139136,10.1002/ange.202313172,2023-11-01,A5100423139,Jiaguo Yu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,3,Afb5914645166
+W3127884561,10.1016/j.jssc.2021.121999,2021-02-02,A5029573055,P.C. Li,CN,University of Electronic Science and Technology of China,Mechanical Engineering,Engineering,Physical Sciences,10,Afb5914645166
+W3127884561,10.1016/j.jssc.2021.121999,2021-02-02,A5029573055,P.C. Li,CN,China Academy of Engineering Physics,Mechanical Engineering,Engineering,Physical Sciences,10,Afb5914645166
+W3127884561,10.1016/j.jssc.2021.121999,2021-02-02,A5071718769,J.W. Zhang,CN,University of Electronic Science and Technology of China,Mechanical Engineering,Engineering,Physical Sciences,10,Afb5914645166
+W3127884561,10.1016/j.jssc.2021.121999,2021-02-02,A5071718769,J.W. Zhang,CN,China Academy of Engineering Physics,Mechanical Engineering,Engineering,Physical Sciences,10,Afb5914645166
+W3127884561,10.1016/j.jssc.2021.121999,2021-02-02,A5079532032,Jianguo Hu,CN,University of Electronic Science and Technology of China,Mechanical Engineering,Engineering,Physical Sciences,10,Afb5914645166
+W3127884561,10.1016/j.jssc.2021.121999,2021-02-02,A5002337213,Gang Huang,CN,China Academy of Engineering Physics,Mechanical Engineering,Engineering,Physical Sciences,10,Afb5914645166
+W3127884561,10.1016/j.jssc.2021.121999,2021-02-02,A5109726053,Lici Xie,CN,China Academy of Engineering Physics,Mechanical Engineering,Engineering,Physical Sciences,10,Afb5914645166
+W3127884561,10.1016/j.jssc.2021.121999,2021-02-02,A5075282693,Haiyan Xiao,CN,University of Electronic Science and Technology of China,Mechanical Engineering,Engineering,Physical Sciences,10,Afb5914645166
+W3127884561,10.1016/j.jssc.2021.121999,2021-02-02,A5003418091,Xiaosong Zhou,CN,China Academy of Engineering Physics,Mechanical Engineering,Engineering,Physical Sciences,10,Afb5914645166
+W3127884561,10.1016/j.jssc.2021.121999,2021-02-02,A5056181916,Yuanhua Xia,CN,China Academy of Engineering Physics,Mechanical Engineering,Engineering,Physical Sciences,10,Afb5914645166
+W3127884561,10.1016/j.jssc.2021.121999,2021-02-02,A5100358209,Jianjun Zhang,CN,University of Electronic Science and Technology of China,Mechanical Engineering,Engineering,Physical Sciences,10,Afb5914645166
+W3127884561,10.1016/j.jssc.2021.121999,2021-02-02,A5100358209,Jianjun Zhang,CN,China Academy of Engineering Physics,Mechanical Engineering,Engineering,Physical Sciences,10,Afb5914645166
+W3127884561,10.1016/j.jssc.2021.121999,2021-02-02,A5081645721,Huahai Shen,CN,China Academy of Engineering Physics,Mechanical Engineering,Engineering,Physical Sciences,10,Afb5914645166
+W3127884561,10.1016/j.jssc.2021.121999,2021-02-02,A5033751081,Xiaotao Zu,CN,University of Electronic Science and Technology of China,Mechanical Engineering,Engineering,Physical Sciences,10,Afb5914645166
+W2570103769,10.3139/120.110969,2016-12-22,A5100358209,Jianjun Zhang,CN,Chengdu University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,2,Afb5914645166
+W2570103769,10.3139/120.110969,2016-12-22,A5057937029,Hao Zeng,CN,Chengdu University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,2,Afb5914645166
+W2570103769,10.3139/120.110969,2016-12-22,A5100373887,Chun Liu,CN,Chengdu University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,2,Afb5914645166
+W2570103769,10.3139/120.110969,2016-12-22,A5100323273,Chao Li,CN,Chengdu University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,2,Afb5914645166
+W2570103769,10.3139/120.110969,2016-12-22,A5101750590,Sude Ma,CN,Chengdu University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,2,Afb5914645166
+W2570103769,10.3139/120.110969,2016-12-22,A5001860377,Guangpu Lv,CN,China XD Group (China),"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,2,Afb5914645166
+W3032671182,10.3866/pku.whxb201509141,2015-01-01,A5063138253,Ni-Na. LI,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1,Afb5914645166
+W3032671182,10.3866/pku.whxb201509141,2015-01-01,A5050744677,Li‐Na Geng,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1,Afb5914645166
+W3032671182,10.3866/pku.whxb201509141,2015-01-01,A5142685309,Lin. WANG,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1,Afb5914645166
+W3032671182,10.3866/pku.whxb201509141,2015-01-01,A5027810564,Lin-Lin. YUAN,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1,Afb5914645166
+W3032671182,10.3866/pku.whxb201509141,2015-01-01,A5110689716,Yan-Zhong. CHANG,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1,Afb5914645166
+W3032671182,10.3866/pku.whxb201509141,2015-01-01,A5100358209,Jianjun Zhang,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1,Afb5914645166
+W4381432873,10.1088/1742-6596/2529/1/012010,2023-06-01,A5069605605,Yan Lin,CN,Wuyi University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1,Afb5914645166
+W4381432873,10.1088/1742-6596/2529/1/012010,2023-06-01,A5108845092,Zikun Hou,CN,Wuyi University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1,Afb5914645166
+W4381432873,10.1088/1742-6596/2529/1/012010,2023-06-01,A5100358209,Jianjun Zhang,CN,Wuyi University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1,Afb5914645166
+W4381432873,10.1088/1742-6596/2529/1/012010,2023-06-01,A5100333692,Yue Zhang,CN,Wuyi University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1,Afb5914645166
+W4381432873,10.1088/1742-6596/2529/1/012010,2023-06-01,A5101215303,Donjian Liang,CN,Wuyi University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1,Afb5914645166
+W4381432873,10.1088/1742-6596/2529/1/012010,2023-06-01,A5101972068,Wei Lü,CN,Wuyi University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1,Afb5914645166
+W4381432873,10.1088/1742-6596/2529/1/012010,2023-06-01,A5113866977,Shufen Liang,CN,Wuyi University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,1,Afb5914645166
+W4400444022,10.2139/ssrn.4889727,2024-01-01,A5003481156,siyuan li,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,0,Afb5914645166
+W4400444022,10.2139/ssrn.4889727,2024-01-01,A5090702314,Haitao Wang,CN,Anhui Jianzhu University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,0,Afb5914645166
+W4400444022,10.2139/ssrn.4889727,2024-01-01,A5113411863,Keke Lei,CN,Anhui Jianzhu University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,0,Afb5914645166
+W4400444022,10.2139/ssrn.4889727,2024-01-01,A5100358209,Jianjun Zhang,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,0,Afb5914645166
+W4406607112,10.2139/ssrn.5104709,2025-01-01,A5100411886,Dan Wang,CN,Shangluo University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,0,Afb5914645166
+W4406607112,10.2139/ssrn.5104709,2025-01-01,A5003707166,Guotai Sun,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,0,Afb5914645166
+W4406607112,10.2139/ssrn.5104709,2025-01-01,A5005524085,Libo Wang,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,0,Afb5914645166
+W4406607112,10.2139/ssrn.5104709,2025-01-01,A5100358209,Jianjun Zhang,,,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,0,Afb5914645166
+W4406607112,10.2139/ssrn.5104709,2025-01-01,A5032509793,Bicheng Zhu,CN,China University of Geosciences,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,0,Afb5914645166
+W4406607112,10.2139/ssrn.5104709,2025-01-01,A5036854807,Yanyan Zhao,CN,Shangluo University,"Renewable Energy, Sustainability and the Environment",Energy,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5051181327,María Cabrero‐Antonino,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5053454388,Andrés Uscategui-Linares,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5036604720,Rubén Ramírez‐Grau,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5000258837,Pablo García-Aznar,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5060124219,Germán Sastre,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5100358209,Jianjun Zhang,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5100358209,Jianjun Zhang,CN,China University of Geosciences (Beijing),Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5067969184,Sara Goberna‐Ferrón,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5035200677,Josep Albero,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5100423139,Jiaguo Yu,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5100423139,Jiaguo Yu,CN,China University of Geosciences (Beijing),Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5014540719,Hermenegildo Garcı́a,ES,Universitat de València,Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5014540719,Hermenegildo Garcı́a,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5014540719,Hermenegildo Garcı́a,ES,Universitat Politècnica de València,Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5004139159,Feiyan Xu,CN,China University of Geosciences,Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5004139159,Feiyan Xu,CN,China University of Geosciences (Beijing),Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5004139159,Feiyan Xu,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166
+W4410343700,10.1002/ange.202503860,2025-05-13,A5071474907,Ana Primo,ES,Instituto de Tecnología Química,Materials Chemistry,Materials Science,Physical Sciences,0,Afb5914645166

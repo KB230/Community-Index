@@ -1,0 +1,35 @@
+{
+  "chart": {
+    "title": "World Bank income groups",
+    "subtitle": "The World Bank's income classification divides countries into four categories based on their gross national income (GNI) per capita. Thresholds between income groups have changed over time.",
+    "note": "Countries are grouped based on the income classification for each respective year. This means that group membership can change over time.",
+    "citation": "World Bank (2026)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/world-bank-income-groups?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "American Samoa",
+      "Uganda",
+      "France",
+      "Oman"
+    ]
+  },
+  "columns": {
+    "World Bank's income classification": {
+      "titleShort": "World Bank's income classification",
+      "titleLong": "World Bank's income classification",
+      "descriptionShort": "Income classification based on the country's income each year.",
+      "descriptionKey": "- The World Bank creates a yearly classification of countries by income for all countries with a population over 30,000.\n- This classification stays the same throughout the World Bank's fiscal year (from July 1 to June 30) even if the income data for a country changes.\n- Low-income countries are those with a gross national income (GNI) per capita of $1,175 or less in 2025.\n- Lower-middle-income countries are those with a GNI per capita between $1,176 and $4,635 in 2025.\n- Upper-middle-income countries are those with a GNI per capita between $4,636 and $14,375 in 2025.\n- High-income countries are those with a GNI per capita of more than $14,375 in 2025.\n- When the World Bank lacks recent income data for a country, it can leave that country temporarily unclassified. Venezuela had no classification from 2021 to 2024, and Ethiopia had none in 2024.",
+      "unit": "",
+      "timespan": "1987-2025",
+      "type": "Ordinal",
+      "owidVariableId": 1290375,
+      "shortName": "classification",
+      "lastUpdated": "2026-07-01",
+      "nextUpdate": "2027-07-01",
+      "citationShort": "World Bank (2026) – with minor processing by Our World in Data",
+      "citationLong": "World Bank (2026) – with minor processing by Our World in Data. “World Bank's income classification – World Bank” [dataset]. World Bank, “Income Classifications” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1290375.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-07-28",
+  "activeFilters": {}
+}
