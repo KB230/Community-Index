@@ -1,6 +1,16 @@
 # Secrets
 .env
 
+# Internal data with identifying information — do not commit
+data/internal/
+*_internal*.csv
+*_with_doi.csv
+
+# Also exclude any legacy top-level copies if they exist
+cohortA_internal_with_doi.csv
+cohortB_internal_with_doi.csv
+cohortA_with_dates.csv           # old location, which had DOIs — new one lives in data/public/
+
 # Python
 __pycache__/
 *.py[cod]
@@ -13,3 +23,5 @@ __pycache__/
 .DS_Store
 .vscode/
 .idea/
+
+

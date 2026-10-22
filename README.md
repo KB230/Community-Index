@@ -1,6 +1,6 @@
 # The Community Index (comm-index)
 
-Code, data, and analysis for the paper **"The Community Index: A More Comprehensive Approach to Assessing Scholarly Impact"** ([arXiv:2508.16519](https://arxiv.org/abs/2508.16519)).
+Code, data, and analysis for the paper **"A community index (comm-index) for measuring gender, geographic, and disciplinary plurality in research collaboration: development and bibliometric analysis"**
 
 The comm-index measures how **diverse a researcher's collaborations are**, rather than how often they are cited. It scores each co-authored paper along three dimensions:
 
@@ -117,19 +117,17 @@ The geometric mean is zero whenever any one component is zero. For the extended 
 
 | File / folder | Contents |
 |---|---|
-| `cohortA_public_demo.csv`, `cohortB_public_demo.csv` | Anonymized public versions of the two small cohorts |
-| `cohortA_internal_with_doi.csv`, `cohortB_internal_with_doi.csv` | Internal versions that keep DOIs and identifiers |
-| `cohortA_with_dates.csv`, `cohortB_with_dates.csv` | Internal versions plus Crossref publication dates. **These are the inputs to `run_analysis.py`** |
-| `demo_dimensions_data/` | Raw Dimensions API exports for the two selected components (materials science → A, medical → B) |
-| `seed_authors_for_matching.csv` | The 10 seed authors, with OpenAlex IDs |
-| `extended_pull_A*.csv` | Per-seed raw pulls from OpenAlex |
-| `extended_cohort_raw.csv` | All per-seed pulls combined |
-| `author_topics.json` | OpenAlex primary topic (domain/field/subfield) and h-index for each author |
-| `adapted_extended_cohort.csv` | The extended cohort in pipeline format. **Input to `run_analysis.py`** |
-| `income_group_lookup.json` | Country code → World Bank income group (1–4) |
+| `data/public/cohortA_with_dates.csv`, `data/public/cohortB_with_dates.csv` | Anonymized pipeline inputs for the small cohorts. **Inputs to `run_analysis.py`** |
+| `data/public/cohortA_public_demo.csv`, `data/public/cohortB_public_demo.csv` | Alternative anonymized versions without the date column |
+| `data/internal/` | Not committed. Working copies with DOIs, names, and affiliation details. Required to re-enrich dates or re-run manual curation |
+| `scripts/make_public_data.py` | Produces the public pipeline CSVs from the internal ones |
+| `adapted_extended_cohort.csv` | Extended cohort in pipeline format. **Input to `run_analysis.py`** |
+| `extended_cohort_raw.csv` | Combined raw per-seed OpenAlex pulls |
+| `author_topics.json` | OpenAlex primary topic and h-index per author |
+| `seed_authors_for_matching.csv` | The 10 seed authors with their OpenAlex IDs |
+| `income_group_lookup.json` | Country code → World Bank income group (1-4) |
 | `world-bank-income-groups/` | Source data from Our World in Data |
-| `dimensionsDataForPastYear.csv` | Raw Dimensions export |
-| `results_cohortA/`, `results_cohortB/`, `results_extended/` | Pipeline outputs (see [Outputs](#outputs)) |
+| `results_cohortA/`, `results_cohortB/`, `results_extended/` | Pipeline outputs |
 | `final_figures/` | Paper figures (PNG and PDF) |
 
 **Cohort sizes**
@@ -301,18 +299,19 @@ Author and paper IDs (`A…` / `P…`) are stable hashes, so results stay joinab
 ---
 
 ## Citation
+## Citation
 
 If you use this work, please cite:
 
-> Kumar, A., Sabet, C., Hammond, A., et al. (2025). *The Community Index: A More Comprehensive Approach to Assessing Scholarly Impact.* arXiv:2508.16519.
+> Kumar, A.*, Sabet, C.*, Hammond, A.*, Jain, B., Pradhan, S., Suresha, D., Goode, D., Fiske, A., Lehmann, L. S., Celi, L. A., McCague, N., Abulibdeh, R., Cheruku, S., Bawoke, M. M., Shah, S. (2026). *A community index (comm-index) for measuring gender, geographic, and disciplinary plurality in research collaboration: development and bibliometric analysis.* Manuscript under review.
+>
+> \*Co-first authors.
 
 ```bibtex
-@misc{kumar2025community,
-      title={The Community Index: A More Comprehensive Approach to Assessing Scholarly Impact},
-      author={Arav Kumar and Cameron Sabet and Alessandro Hammond and Amelia Fiske and Bhav Jain and Deirdre Goode and Dharaa Suresha and Leo Anthony Celi and Lisa Soleymani Lehmann and Ned Mccague and Rawan Abulibdeh and Sameer Pradhan},
-      year={2025},
-      eprint={2508.16519},
-      archivePrefix={arXiv},
-      primaryClass={cs.DL}
+@unpublished{kumar2026community,
+      title={A community index (comm-index) for measuring gender, geographic, and disciplinary plurality in research collaboration: development and bibliometric analysis},
+      author={Kumar, Arav and Sabet, Cameron and Hammond, Alessandro and Jain, Bhav and Pradhan, Sameer and Suresha, Dharaa and Goode, Deirdre and Fiske, Amelia and Lehmann, Lisa Soleymani and Celi, Leo Anthony and McCague, Ned and Abulibdeh, Rawan and Cheruku, Saanvi and Bawoke, Melat Mezgebu and Shah, Sohum},
+      year={2026},
+      note={Manuscript under review. Kumar, Sabet, and Hammond contributed equally.}
 }
 ```
