@@ -1,6 +1,6 @@
 # The Community Index (comm-index)
 
-Code, data, and analysis for the paper **"The Community Index: A More Comprehensive Approach to Assessing Scholarly Impact"** ([arXiv:2508.16519](https://arxiv.org/abs/2508.16519)).
+Code, data, and analysis for the paper **"A community index (comm-index) for measuring gender, geographic, and disciplinary plurality in research collaboration: development and bibliometric analysis"**
 
 The comm-index measures how **diverse a researcher's collaborations are**, rather than how often they are cited. It scores each co-authored paper along three dimensions:
 
@@ -301,18 +301,19 @@ Author and paper IDs (`A…` / `P…`) are stable hashes, so results stay joinab
 ---
 
 ## Citation
+## Citation
 
 If you use this work, please cite:
 
-> Kumar, A., Sabet, C., Hammond, A., et al. (2025). *The Community Index: A More Comprehensive Approach to Assessing Scholarly Impact.* arXiv:2508.16519.
+> Kumar, A.*, Sabet, C.*, Hammond, A.*, Jain, B., Pradhan, S., Suresha, D., Goode, D., Fiske, A., Lehmann, L. S., Celi, L. A., McCague, N., Abulibdeh, R., Cheruku, S., Bawoke, M. M., Shah, S. (2026). *A community index (comm-index) for measuring gender, geographic, and disciplinary plurality in research collaboration: development and bibliometric analysis.* Manuscript under review.
+>
+> \*Co-first authors.
 
 ```bibtex
-@misc{kumar2025community,
-      title={The Community Index: A More Comprehensive Approach to Assessing Scholarly Impact},
-      author={Arav Kumar and Cameron Sabet and Alessandro Hammond and Amelia Fiske and Bhav Jain and Deirdre Goode and Dharaa Suresha and Leo Anthony Celi and Lisa Soleymani Lehmann and Ned Mccague and Rawan Abulibdeh and Sameer Pradhan},
-      year={2025},
-      eprint={2508.16519},
-      archivePrefix={arXiv},
-      primaryClass={cs.DL}
+@unpublished{kumar2026community,
+      title={A community index (comm-index) for measuring gender, geographic, and disciplinary plurality in research collaboration: development and bibliometric analysis},
+      author={Kumar, Arav and Sabet, Cameron and Hammond, Alessandro and Jain, Bhav and Pradhan, Sameer and Suresha, Dharaa and Goode, Deirdre and Fiske, Amelia and Lehmann, Lisa Soleymani and Celi, Leo Anthony and McCague, Ned and Abulibdeh, Rawan and Cheruku, Saanvi and Bawoke, Melat Mezgebu and Shah, Sohum},
+      year={2026},
+      note={Manuscript under review. Kumar, Sabet, and Hammond contributed equally.}
 }
 ```
