@@ -1,0 +1,81 @@
+pub_anon_id,author_anon_id,aff_country_code,specialization,pub_date,gender
+Paeb9d85274a2,Af103ef0d80ce,CN,Chemistry,2025-03-17,male
+Paeb9d85274a2,Afb5914645166,CN,Chemistry,2025-03-17,male
+Paeb9d85274a2,Ab1e8b19bae0b,CN,Materials Science,2025-03-17,male
+Paeb9d85274a2,A38327606686f,ES,Environmental Science,2025-03-17,male
+Pf8c66ca7c94a,Afafd8838d7fe,CN,Materials Science,2025-01-01,male
+Pf8c66ca7c94a,Afafd8838d7fe,EG,Materials Science,2025-01-01,male
+Pf8c66ca7c94a,A97ac53e456d9,CN,Chemistry,2025-01-01,male
+Pf8c66ca7c94a,A495ed70d748b,CN,Materials Science,2025-01-01,male
+Pf8c66ca7c94a,Af103ef0d80ce,CN,Chemistry,2025-01-01,male
+Pf8c66ca7c94a,A38327606686f,ES,Environmental Science,2025-01-01,male
+Pf8c66ca7c94a,Ab1e8b19bae0b,CN,Materials Science,2025-01-01,male
+Pc31ee0fc09c6,A3b3c93f5c45e,CN,Materials Science,2025-07-01,unknown
+Pc31ee0fc09c6,A3b3c93f5c45e,CN,Materials Science,2025-07-01,unknown
+Pc31ee0fc09c6,Afb5914645166,CN,Chemistry,2025-07-01,male
+Pc31ee0fc09c6,A11460d5aa670,CN,Materials Science,2025-07-01,male
+Pc31ee0fc09c6,A60af1130add6,CN,Environmental Engineering,2025-07-01,male
+Pc31ee0fc09c6,A38327606686f,ES,Environmental Science,2025-07-01,male
+Pc31ee0fc09c6,Ab1e8b19bae0b,CN,Materials Science,2025-07-01,male
+Pc31ee0fc09c6,Ab1e8b19bae0b,CN,Materials Science,2025-07-01,male
+Pc31ee0fc09c6,Ab1e8b19bae0b,CN,Materials Science,2025-07-01,male
+P8d6cc990644e,A11460d5aa670,CN,Materials Science,2025-01-01,male
+P8d6cc990644e,A11460d5aa670,AU,Materials Science,2025-01-01,male
+P8d6cc990644e,A60af1130add6,CN,Environmental Engineering,2025-01-01,male
+P8d6cc990644e,A72195b54cd22,AU,Chemistry,2025-01-01,male
+P8d6cc990644e,A915c95ef1178,CN,Chemistry,2025-01-01,male
+P8d6cc990644e,A6e2aff8d4f11,CN,Chemistry,2025-01-01,unknown
+P8d6cc990644e,A6e2aff8d4f11,CN,Chemistry,2025-01-01,unknown
+P8d6cc990644e,Abd4f9c40c87e,CN,Materials Science,2025-01-01,male
+P17d0ee011aa1,A163297e46e52,CN,Materials Science,2025-03-26,unknown
+P17d0ee011aa1,A163297e46e52,CN,Materials Science,2025-03-26,unknown
+P17d0ee011aa1,A4a0998b8e22b,CN,Materials Science,2025-03-26,male
+P17d0ee011aa1,A0122def5b1c2,CN,Environmental Engineering,2025-03-26,male
+P17d0ee011aa1,Af8ecffc8330e,CN,Computational / Modeling,2025-03-26,unknown
+P17d0ee011aa1,A03752a964def,AU,Environmental Engineering,2025-03-26,female
+P17d0ee011aa1,A3b590d2596a1,CN,Physics,2025-03-26,male
+P17d0ee011aa1,A4de916b6f0b8,CN,Environmental Science,2025-03-26,male
+P17d0ee011aa1,Ab7464adbc9d2,US,Civil Engineering,2025-03-26,male
+P17d0ee011aa1,A75e56c11dcda,CN,Environmental Engineering,2025-03-26,male
+P17d0ee011aa1,A0d87c26033d1,CN,Environmental Engineering,2025-03-26,male
+P17d0ee011aa1,Aa6270b01971b,CN,Environmental Engineering,2025-03-26,male
+P17d0ee011aa1,A7405c4069613,CN,Materials Science,2025-03-26,unknown
+Pc97bf25865b0,A91b68983525e,CN,Environmental Engineering,2025-07-21,unknown
+Pc97bf25865b0,Afb5914645166,CN,Chemistry,2025-07-21,male
+Pc97bf25865b0,A5d5fe6cddb0d,CN,Chemistry,2025-07-21,unknown
+Pc97bf25865b0,A38327606686f,ES,Environmental Science,2025-07-21,male
+Pc97bf25865b0,Af103ef0d80ce,CN,Chemistry,2025-07-21,male
+Pc97bf25865b0,A11460d5aa670,CN,Materials Science,2025-07-21,male
+Pc97bf25865b0,Ab1e8b19bae0b,CN,Materials Science,2025-07-21,male
+P7c82ccbe194a,A116dd43f5546,CN,Materials Science,2025-02-25,unknown
+P7c82ccbe194a,A116dd43f5546,CN,Materials Science,2025-02-25,unknown
+P7c82ccbe194a,A116dd43f5546,CN,Materials Science,2025-02-25,unknown
+P7c82ccbe194a,A27d96bd66b84,CN,Chemistry,2025-02-25,unknown
+P7c82ccbe194a,A27d96bd66b84,CN,Chemistry,2025-02-25,unknown
+P7c82ccbe194a,Af55d88d046b1,CN,Materials Science,2025-02-25,unknown
+P7c82ccbe194a,Af55d88d046b1,CN,Materials Science,2025-02-25,unknown
+P7c82ccbe194a,Af55d88d046b1,CN,Materials Science,2025-02-25,unknown
+P7c82ccbe194a,A31be42760a0b,DE,Physics,2025-02-25,female
+P7c82ccbe194a,Ab6556211059e,CN,Materials Science,2025-02-25,male
+P7c82ccbe194a,A0a4539517830,CN,Environmental Science,2025-02-25,unknown
+P7c82ccbe194a,A0a4539517830,CN,Environmental Science,2025-02-25,unknown
+P7c82ccbe194a,A4655057dee62,CN,Chemistry,2025-02-25,male
+P7c82ccbe194a,A4655057dee62,CN,Chemistry,2025-02-25,male
+P7c82ccbe194a,Af9b4a2748a79,CN,Materials Science,2025-02-25,unknown
+P7c82ccbe194a,Af9b4a2748a79,CN,Materials Science,2025-02-25,unknown
+P7c82ccbe194a,Ad5ecc52b7111,CN,Materials Science,2025-02-25,unknown
+P7c82ccbe194a,Ae75c59644b48,CN,Materials Science,2025-02-25,unknown
+P7c82ccbe194a,Ae75c59644b48,CN,Materials Science,2025-02-25,unknown
+P7c82ccbe194a,Ade11f80cd814,TW,Chemistry,2025-02-25,male
+P7c82ccbe194a,Ad2c64d944b4d,CN,Chemistry,2025-02-25,male
+P7c82ccbe194a,A441f32c5146e,DE,Materials Science,2025-02-25,female
+P7c82ccbe194a,Aa6270b01971b,CN,Environmental Engineering,2025-02-25,male
+P7c82ccbe194a,A52334e383e85,CN,Materials Science,2025-02-25,male
+P7c82ccbe194a,A17cffab5e939,CN,Environmental Engineering,2025-02-25,male
+P7c82ccbe194a,A4028428139e7,GB,Materials Science,2025-02-25,male
+P7c82ccbe194a,A6e2aff8d4f11,CN,Chemistry,2025-02-25,unknown
+P7c82ccbe194a,A6e2aff8d4f11,CN,Chemistry,2025-02-25,unknown
+P7c82ccbe194a,A5d615cf56904,DE,Physics,2025-02-25,male
+P7c82ccbe194a,A77afe8504df7,CN,Chemistry,2025-02-25,unknown
+P7c82ccbe194a,A77afe8504df7,CN,Chemistry,2025-02-25,unknown
+P7c82ccbe194a,A77afe8504df7,CN,Chemistry,2025-02-25,unknown

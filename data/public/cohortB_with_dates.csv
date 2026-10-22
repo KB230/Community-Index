@@ -1,0 +1,56 @@
+pub_anon_id,author_anon_id,aff_country_code,specialization,pub_date,gender
+P12c4680a5a2f,Ac047bf941cb8,US,Internal Medicine,2025-05-29,male
+P12c4680a5a2f,Ac047bf941cb8,US,Internal Medicine,2025-05-29,male
+P12c4680a5a2f,A65cd1d1f01bb,DE,Internal Medicine,2025-05-29,male
+P12c4680a5a2f,A65cd1d1f01bb,DE,Internal Medicine,2025-05-29,male
+P12c4680a5a2f,A7377c4c6ea73,CA,Cardiology,2025-05-29,female
+P12c4680a5a2f,A50f2943dbf49,GB,Cardiology,2025-05-29,male
+P12c4680a5a2f,A54200dd73478,US,Internal Medicine,2025-05-29,male
+P12c4680a5a2f,Ad75c9bd62613,US,Internal Medicine,2025-05-29,female
+P12c4680a5a2f,A1d51b8d97097,DE,Internal Medicine,2025-05-29,male
+P12c4680a5a2f,A1d51b8d97097,DE,Internal Medicine,2025-05-29,male
+P12c4680a5a2f,Af751bd9fe6fe,US,Biostatistics,2025-05-29,male
+P12c4680a5a2f,Af64b60959415,GB,Epidemiology,2025-05-29,male
+P12c4680a5a2f,Af46fd65cdf0f,DK,Business,2025-05-29,male
+P12c4680a5a2f,A4968dbdd6ce3,DK,Cardiology,2025-05-29,female
+P12c4680a5a2f,A98687b84a2af,DK,Internal Medicine,2025-05-29,male
+P12c4680a5a2f,A74828677caf2,DK,Cardiology,2025-05-29,female
+P12c4680a5a2f,A52cb276acc8b,GB,Internal Medicine,2025-05-29,male
+P12c4680a5a2f,A597692134005,US,Cardiology,2025-05-29,male
+P12c4680a5a2f,Abeff547e0117,DK,Statistics,2025-05-29,female
+P12c4680a5a2f,Ab03da4a3d8c5,DK,Cardiology,2025-05-29,male
+P12c4680a5a2f,Aecf877d9eda3,US,Internal Medicine,2025-05-29,male
+P8180aac5f045,A77c21dacbd16,US,Internal Medicine,2025-08-07,male
+P8180aac5f045,A77c21dacbd16,US,Internal Medicine,2025-08-07,male
+P8180aac5f045,A1b6c01391205,US,Internal Medicine,2025-08-07,female
+P8180aac5f045,A302195fc7c86,NL,Clinical Pharmacy,2025-08-07,male
+P8180aac5f045,A302195fc7c86,NL,Clinical Pharmacy,2025-08-07,male
+P8180aac5f045,A1d51b8d97097,DE,Internal Medicine,2025-08-07,male
+P8180aac5f045,A1d51b8d97097,DE,Internal Medicine,2025-08-07,male
+P8180aac5f045,A8562ad162ed5,US,Internal Medicine,2025-08-07,female
+P8180aac5f045,A0a982b89120d,US,Epidemiology,2025-08-07,female
+P8180aac5f045,A0bde5634ba80,US,Internal Medicine,2025-08-07,male
+P8180aac5f045,A05e14d24db0c,DK,Internal Medicine,2025-08-07,male
+P8180aac5f045,A05e14d24db0c,DK,Internal Medicine,2025-08-07,male
+P8180aac5f045,A1e620567be50,US,Internal Medicine,2025-08-07,male
+P8180aac5f045,A1e620567be50,US,Internal Medicine,2025-08-07,male
+P8180aac5f045,Ac348b40d377b,DE,Clinical Medicine,2025-08-07,female
+P8180aac5f045,A6fe5a7c4f575,SE,Cardiology,2025-08-07,male
+P8180aac5f045,A6fe5a7c4f575,SE,Cardiology,2025-08-07,male
+P8180aac5f045,A07510fbcac2b,CN,Finance,2025-08-07,female
+P8180aac5f045,A14415b8c5b51,DE,Business,2025-08-07,male
+P8180aac5f045,A23e36e9365a6,US,Statistics,2025-08-07,male
+P8180aac5f045,A17303fc2a02f,JP,Internal Medicine,2025-08-07,male
+P67694f6e606a,A3bbd0f5b0c45,IT,Internal Medicine,2025-01-30,female
+P67694f6e606a,A3bbd0f5b0c45,IT,Internal Medicine,2025-01-30,female
+P67694f6e606a,A77c21dacbd16,US,Internal Medicine,2025-01-30,male
+P67694f6e606a,Ad1f9700c44cd,CN,Epidemiology,2025-01-30,female
+P67694f6e606a,A7103d6c4eb0b,CA,Internal Medicine,2025-01-30,female
+P67694f6e606a,A7103d6c4eb0b,CA,Internal Medicine,2025-01-30,female
+P67694f6e606a,A16adb6f52b24,UG,Internal Medicine,2025-01-30,male
+P67694f6e606a,A16adb6f52b24,UG,Internal Medicine,2025-01-30,male
+P67694f6e606a,Ad83bc45d319d,US,Internal Medicine,2025-01-30,female
+P67694f6e606a,Ad83bc45d319d,LB,Internal Medicine,2025-01-30,female
+P67694f6e606a,Aab3d61cb0d48,JP,Internal Medicine,2025-01-30,male
+P67694f6e606a,Ae4b5a5839b85,MX,Internal Medicine,2025-01-30,male
+P67694f6e606a,Ab33d651ea75d,DE,Internal Medicine,2025-01-30,male

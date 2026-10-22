@@ -117,19 +117,17 @@ The geometric mean is zero whenever any one component is zero. For the extended 
 
 | File / folder | Contents |
 |---|---|
-| `cohortA_public_demo.csv`, `cohortB_public_demo.csv` | Anonymized public versions of the two small cohorts |
-| `cohortA_internal_with_doi.csv`, `cohortB_internal_with_doi.csv` | Internal versions that keep DOIs and identifiers |
-| `cohortA_with_dates.csv`, `cohortB_with_dates.csv` | Internal versions plus Crossref publication dates. **These are the inputs to `run_analysis.py`** |
-| `demo_dimensions_data/` | Raw Dimensions API exports for the two selected components (materials science → A, medical → B) |
-| `seed_authors_for_matching.csv` | The 10 seed authors, with OpenAlex IDs |
-| `extended_pull_A*.csv` | Per-seed raw pulls from OpenAlex |
-| `extended_cohort_raw.csv` | All per-seed pulls combined |
-| `author_topics.json` | OpenAlex primary topic (domain/field/subfield) and h-index for each author |
-| `adapted_extended_cohort.csv` | The extended cohort in pipeline format. **Input to `run_analysis.py`** |
-| `income_group_lookup.json` | Country code → World Bank income group (1–4) |
+| `data/public/cohortA_with_dates.csv`, `data/public/cohortB_with_dates.csv` | Anonymized pipeline inputs for the small cohorts. **Inputs to `run_analysis.py`** |
+| `data/public/cohortA_public_demo.csv`, `data/public/cohortB_public_demo.csv` | Alternative anonymized versions without the date column |
+| `data/internal/` | Not committed. Working copies with DOIs, names, and affiliation details. Required to re-enrich dates or re-run manual curation |
+| `scripts/make_public_data.py` | Produces the public pipeline CSVs from the internal ones |
+| `adapted_extended_cohort.csv` | Extended cohort in pipeline format. **Input to `run_analysis.py`** |
+| `extended_cohort_raw.csv` | Combined raw per-seed OpenAlex pulls |
+| `author_topics.json` | OpenAlex primary topic and h-index per author |
+| `seed_authors_for_matching.csv` | The 10 seed authors with their OpenAlex IDs |
+| `income_group_lookup.json` | Country code → World Bank income group (1-4) |
 | `world-bank-income-groups/` | Source data from Our World in Data |
-| `dimensionsDataForPastYear.csv` | Raw Dimensions export |
-| `results_cohortA/`, `results_cohortB/`, `results_extended/` | Pipeline outputs (see [Outputs](#outputs)) |
+| `results_cohortA/`, `results_cohortB/`, `results_extended/` | Pipeline outputs |
 | `final_figures/` | Paper figures (PNG and PDF) |
 
 **Cohort sizes**
