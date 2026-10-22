@@ -299,7 +299,6 @@ Author and paper IDs (`A…` / `P…`) are stable hashes, so results stay joinab
 ---
 
 ## Citation
-## Citation
 
 If you use this work, please cite:
 
